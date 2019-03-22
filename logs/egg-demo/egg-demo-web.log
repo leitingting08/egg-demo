@@ -1,0 +1,156 @@
+2019-03-19 11:08:54,464 ERROR 1231 [-/127.0.0.1/-/13ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/leitingting/work/egg-demo/node_modules/egg/lib/application.js:257:15)
+    at Object.get cookies [as cookies] (/Users/leitingting/work/egg-demo/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/leitingting/work/egg-demo/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/leitingting/work/egg-demo/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/leitingting/work/egg-demo/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/leitingting/work/egg-demo/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/leitingting/work/egg-demo/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 1231
+hostname: leitingtingdeMacBook-Pro.local
+
+2019-03-19 12:28:03,031 ERROR 1237 [-/::1/-/14ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/leitingting/work/egg-demo/node_modules/egg/lib/application.js:257:15)
+    at Object.get cookies [as cookies] (/Users/leitingting/work/egg-demo/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/leitingting/work/egg-demo/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/leitingting/work/egg-demo/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/leitingting/work/egg-demo/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/leitingting/work/egg-demo/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/leitingting/work/egg-demo/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 1237
+hostname: leitingtingdeMacBook-Pro.local
+
+2019-03-19 13:34:43,030 ERROR 1442 [-/::1/-/5ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/leitingting/work/egg-demo/node_modules/egg/lib/application.js:257:15)
+    at Object.get cookies [as cookies] (/Users/leitingting/work/egg-demo/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/leitingting/work/egg-demo/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/leitingting/work/egg-demo/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/leitingting/work/egg-demo/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/leitingting/work/egg-demo/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/leitingting/work/egg-demo/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 1442
+hostname: leitingtingdeMacBook-Pro.local
+
+2019-03-19 13:35:31,338 ERROR 1450 [-/127.0.0.1/-/10ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/leitingting/work/egg-demo/node_modules/egg/lib/application.js:257:15)
+    at Object.get cookies [as cookies] (/Users/leitingting/work/egg-demo/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/leitingting/work/egg-demo/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/leitingting/work/egg-demo/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/leitingting/work/egg-demo/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/leitingting/work/egg-demo/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/leitingting/work/egg-demo/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 1450
+hostname: leitingtingdeMacBook-Pro.local
+
+2019-03-19 13:35:33,848 ERROR 1450 [-/127.0.0.1/-/2ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/leitingting/work/egg-demo/node_modules/egg/lib/application.js:257:15)
+    at Object.get cookies [as cookies] (/Users/leitingting/work/egg-demo/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/leitingting/work/egg-demo/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/leitingting/work/egg-demo/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/leitingting/work/egg-demo/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/leitingting/work/egg-demo/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/leitingting/work/egg-demo/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 1450
+hostname: leitingtingdeMacBook-Pro.local
+
+2019-03-19 17:38:27,820 ERROR 1878 [-/::1/-/6ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.tpl from /Users/leitingting/work/egg-demo/app/view
+    at Map.resolve (/Users/leitingting/work/egg-demo/node_modules/egg-view/lib/view_manager.js:74:5)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 1878
+hostname: leitingtingdeMacBook-Pro.local
+
+2019-03-19 17:39:17,778 ERROR 1883 [-/::1/-/15ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.tpl from /Users/leitingting/work/egg-demo/app/view
+    at Map.resolve (/Users/leitingting/work/egg-demo/node_modules/egg-view/lib/view_manager.js:74:5)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 1883
+hostname: leitingtingdeMacBook-Pro.local
+
+2019-03-19 17:39:23,011 ERROR 1883 [-/::1/-/4ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.tpl from /Users/leitingting/work/egg-demo/app/view
+    at Map.resolve (/Users/leitingting/work/egg-demo/node_modules/egg-view/lib/view_manager.js:74:5)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 1883
+hostname: leitingtingdeMacBook-Pro.local
+
+2019-03-19 18:00:19,682 ERROR 1885 [-/::1/-/10ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.tpl from /Users/leitingting/work/egg-demo/app/view
+    at Map.resolve (/Users/leitingting/work/egg-demo/node_modules/egg-view/lib/view_manager.js:74:5)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 1885
+hostname: leitingtingdeMacBook-Pro.local
+
+2019-03-19 18:06:12,883 ERROR 1936 [-/::1/-/8ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.tpl from /Users/leitingting/work/egg-demo/app/view
+    at Map.resolve (/Users/leitingting/work/egg-demo/node_modules/egg-view/lib/view_manager.js:74:5)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 1936
+hostname: leitingtingdeMacBook-Pro.local
+
+2019-03-19 18:06:14,358 ERROR 1936 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.tpl from /Users/leitingting/work/egg-demo/app/view
+    at Map.resolve (/Users/leitingting/work/egg-demo/node_modules/egg-view/lib/view_manager.js:74:5)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 1936
+hostname: leitingtingdeMacBook-Pro.local
+
+2019-03-21 20:04:20,874 ERROR 2088 [-/127.0.0.1/-/8ms GET /news] nodejs.ReferenceError: list is not defined
+    at HomeController.news (/Users/leitingting/work/egg-demo/app/controller/home.js:22:47)
+    at Object.callFn (/Users/leitingting/work/egg-demo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/leitingting/work/egg-demo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/leitingting/work/egg-demo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/leitingting/work/egg-demo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/leitingting/work/egg-demo/node_modules/koa-compose/index.js:45:18)
+    at /Users/leitingting/work/egg-demo/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/leitingting/work/egg-demo/node_modules/koa-compose/index.js:44:32)
+    at /Users/leitingting/work/egg-demo/node_modules/koa-compose/index.js:36:12
+
+pid: 2088
+hostname: leitingtingdeMacBook-Pro.local
+

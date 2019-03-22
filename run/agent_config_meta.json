@@ -1,0 +1,278 @@
+{
+  "keys": "/Users/leitingting/work/egg-demo/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/leitingting/work/egg-demo/config/config.default.js",
+    "root": "/Users/leitingting/work/egg-demo/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/leitingting/work/egg-demo/config/config.default.js"
+    },
+    "defaultExtension": "/Users/leitingting/work/egg-demo/config/config.default.js",
+    "cache": "/Users/leitingting/work/egg-demo/node_modules/egg-view/config/config.local.js"
+  },
+  "nunjucks": {
+    "cache": "/Users/leitingting/work/egg-demo/node_modules/egg-view-nunjucks/config/config.local.js",
+    "autoescape": "/Users/leitingting/work/egg-demo/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/leitingting/work/egg-demo/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/leitingting/work/egg-demo/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/leitingting/work/egg-demo/node_modules/egg-view-nunjucks/config/config.default.js"
+  },
+  "httpclient": {
+    "followRedirect": "/Users/leitingting/work/egg-demo/config/config.default.js",
+    "enableDNSCache": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "time": {
+    "expire": "/Users/leitingting/work/egg-demo/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/leitingting/work/egg-demo/config/config.default.js",
+    "dir": "/Users/leitingting/work/egg-demo/config/config.default.js",
+    "dynamic": "/Users/leitingting/work/egg-demo/config/config.default.js",
+    "preload": "/Users/leitingting/work/egg-demo/config/config.default.js",
+    "buffer": "/Users/leitingting/work/egg-demo/config/config.default.js",
+    "maxAge": "/Users/leitingting/work/egg-demo/config/config.default.js",
+    "maxFiles": "/Users/leitingting/work/egg-demo/node_modules/egg-static/config/config.default.js"
+  },
+  "projects": "/Users/leitingting/work/egg-demo/config/config.default.js",
+  "middleware": "/Users/leitingting/work/egg-demo/config/config.default.js",
+  "memcached": {
+    "dev": "/Users/leitingting/work/egg-demo/config/config.default.js",
+    "cn": "/Users/leitingting/work/egg-demo/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/leitingting/work/egg-demo/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/leitingting/work/egg-demo/config/config.default.js",
+    "appErrorFilter": "/Users/leitingting/work/egg-demo/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/leitingting/work/egg-demo/node_modules/egg-onerror/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/leitingting/work/egg-demo/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/leitingting/work/egg-demo/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/leitingting/work/egg-demo/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/leitingting/work/egg-demo/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/leitingting/work/egg-demo/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/leitingting/work/egg-demo/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/leitingting/work/egg-demo/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/leitingting/work/egg-demo/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/leitingting/work/egg-demo/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/leitingting/work/egg-demo/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/leitingting/work/egg-demo/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/leitingting/work/egg-demo/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/leitingting/work/egg-demo/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/leitingting/work/egg-demo/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/leitingting/work/egg-demo/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/leitingting/work/egg-demo/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/leitingting/work/egg-demo/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/leitingting/work/egg-demo/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/leitingting/work/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/leitingting/work/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/leitingting/work/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/leitingting/work/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/leitingting/work/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/leitingting/work/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/leitingting/work/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/leitingting/work/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/leitingting/work/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/leitingting/work/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/leitingting/work/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/leitingting/work/egg-demo/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/leitingting/work/egg-demo/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/leitingting/work/egg-demo/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/leitingting/work/egg-demo/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/leitingting/work/egg-demo/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/leitingting/work/egg-demo/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/leitingting/work/egg-demo/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/leitingting/work/egg-demo/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/leitingting/work/egg-demo/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/leitingting/work/egg-demo/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/leitingting/work/egg-demo/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/leitingting/work/egg-demo/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/leitingting/work/egg-demo/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "env": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+  "name": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "version": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "description": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "main": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+      "test": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "license": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+      "moment": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "strict": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+      "depth": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "env": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "level": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js"
+  },
+  "meta": {
+    "enable": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "logging": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+      "port": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/leitingting/work/egg-demo/node_modules/egg/config/config.default.js"
+}

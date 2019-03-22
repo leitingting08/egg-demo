@@ -1,0 +1,1019 @@
+2019-03-19 11:08:21,919 INFO 1231 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 11:08:21,964 INFO 1231 [egg-multipart] stream mode enable
+2019-03-19 11:08:22,008 INFO 1231 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 11:08:22,011 INFO 1231 [egg-security] use csrf middleware
+2019-03-19 11:08:22,012 INFO 1231 [egg-security] use methodnoallow middleware
+2019-03-19 11:08:22,012 INFO 1231 [egg-security] use noopen middleware
+2019-03-19 11:08:22,012 INFO 1231 [egg-security] use nosniff middleware
+2019-03-19 11:08:22,013 INFO 1231 [egg-security] use xssProtection middleware
+2019-03-19 11:08:22,013 INFO 1231 [egg-security] use xframe middleware
+2019-03-19 11:08:22,013 INFO 1231 [egg-security] use dta middleware
+2019-03-19 11:08:22,013 INFO 1231 [egg-security] compose 7 middlewares into one security middleware
+2019-03-19 11:08:22,022 INFO 1231 [egg:core] dump config after load, 5ms
+2019-03-19 11:08:22,040 INFO 1231 [egg-watcher:application] watcher start success
+2019-03-19 11:08:22,046 INFO 1231 [egg:core] dump config after ready, 4ms
+2019-03-19 11:09:58,082 INFO 1236 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 11:09:58,128 INFO 1236 [egg-multipart] stream mode enable
+2019-03-19 11:09:58,173 INFO 1236 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 11:09:58,176 INFO 1236 [egg-security] use csrf middleware
+2019-03-19 11:09:58,176 INFO 1236 [egg-security] use methodnoallow middleware
+2019-03-19 11:09:58,177 INFO 1236 [egg-security] use noopen middleware
+2019-03-19 11:09:58,177 INFO 1236 [egg-security] use nosniff middleware
+2019-03-19 11:09:58,178 INFO 1236 [egg-security] use xssProtection middleware
+2019-03-19 11:09:58,178 INFO 1236 [egg-security] use xframe middleware
+2019-03-19 11:09:58,178 INFO 1236 [egg-security] use dta middleware
+2019-03-19 11:09:58,178 INFO 1236 [egg-security] compose 7 middlewares into one security middleware
+2019-03-19 11:09:58,189 INFO 1236 [egg:core] dump config after load, 5ms
+2019-03-19 11:09:58,201 INFO 1236 [egg-watcher:application] watcher start success
+2019-03-19 11:09:58,209 INFO 1236 [egg:core] dump config after ready, 3ms
+2019-03-19 11:09:58,849 INFO 1237 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 11:09:58,891 INFO 1237 [egg-multipart] stream mode enable
+2019-03-19 11:09:58,931 INFO 1237 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 11:09:58,934 INFO 1237 [egg-security] use csrf middleware
+2019-03-19 11:09:58,934 INFO 1237 [egg-security] use methodnoallow middleware
+2019-03-19 11:09:58,935 INFO 1237 [egg-security] use noopen middleware
+2019-03-19 11:09:58,935 INFO 1237 [egg-security] use nosniff middleware
+2019-03-19 11:09:58,936 INFO 1237 [egg-security] use xssProtection middleware
+2019-03-19 11:09:58,936 INFO 1237 [egg-security] use xframe middleware
+2019-03-19 11:09:58,936 INFO 1237 [egg-security] use dta middleware
+2019-03-19 11:09:58,936 INFO 1237 [egg-security] compose 7 middlewares into one security middleware
+2019-03-19 11:09:58,945 INFO 1237 [egg:core] dump config after load, 4ms
+2019-03-19 11:09:58,959 INFO 1237 [egg-watcher:application] watcher start success
+2019-03-19 11:09:58,965 INFO 1237 [egg:core] dump config after ready, 3ms
+2019-03-19 13:29:01,007 WARN 1237 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-03-19 13:34:04,474 INFO 1441 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 13:34:04,532 INFO 1441 [egg-multipart] stream mode enable
+2019-03-19 13:34:04,590 INFO 1441 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 13:34:04,595 INFO 1441 [egg-security] use csrf middleware
+2019-03-19 13:34:04,596 INFO 1441 [egg-security] use methodnoallow middleware
+2019-03-19 13:34:04,596 INFO 1441 [egg-security] use noopen middleware
+2019-03-19 13:34:04,597 INFO 1441 [egg-security] use nosniff middleware
+2019-03-19 13:34:04,597 INFO 1441 [egg-security] use xssProtection middleware
+2019-03-19 13:34:04,597 INFO 1441 [egg-security] use xframe middleware
+2019-03-19 13:34:04,598 INFO 1441 [egg-security] use dta middleware
+2019-03-19 13:34:04,598 INFO 1441 [egg-security] compose 7 middlewares into one security middleware
+2019-03-19 13:34:04,611 INFO 1441 [egg:core] dump config after load, 10ms
+2019-03-19 13:34:04,624 INFO 1441 [egg-watcher:application] watcher start success
+2019-03-19 13:34:04,632 INFO 1441 [egg:core] dump config after ready, 4ms
+2019-03-19 13:34:05,292 INFO 1442 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 13:34:05,335 INFO 1442 [egg-multipart] stream mode enable
+2019-03-19 13:34:05,376 INFO 1442 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 13:34:05,378 INFO 1442 [egg-security] use csrf middleware
+2019-03-19 13:34:05,379 INFO 1442 [egg-security] use methodnoallow middleware
+2019-03-19 13:34:05,379 INFO 1442 [egg-security] use noopen middleware
+2019-03-19 13:34:05,379 INFO 1442 [egg-security] use nosniff middleware
+2019-03-19 13:34:05,380 INFO 1442 [egg-security] use xssProtection middleware
+2019-03-19 13:34:05,380 INFO 1442 [egg-security] use xframe middleware
+2019-03-19 13:34:05,380 INFO 1442 [egg-security] use dta middleware
+2019-03-19 13:34:05,380 INFO 1442 [egg-security] compose 7 middlewares into one security middleware
+2019-03-19 13:34:05,389 INFO 1442 [egg:core] dump config after load, 4ms
+2019-03-19 13:34:05,403 INFO 1442 [egg-watcher:application] watcher start success
+2019-03-19 13:34:05,411 INFO 1442 [egg:core] dump config after ready, 5ms
+2019-03-19 13:35:13,606 INFO 1450 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 13:35:13,650 INFO 1450 [egg-multipart] stream mode enable
+2019-03-19 13:35:13,689 INFO 1450 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 13:35:13,692 INFO 1450 [egg-security] use csrf middleware
+2019-03-19 13:35:13,693 INFO 1450 [egg-security] use methodnoallow middleware
+2019-03-19 13:35:13,693 INFO 1450 [egg-security] use noopen middleware
+2019-03-19 13:35:13,693 INFO 1450 [egg-security] use nosniff middleware
+2019-03-19 13:35:13,694 INFO 1450 [egg-security] use xssProtection middleware
+2019-03-19 13:35:13,694 INFO 1450 [egg-security] use xframe middleware
+2019-03-19 13:35:13,694 INFO 1450 [egg-security] use dta middleware
+2019-03-19 13:35:13,694 INFO 1450 [egg-security] compose 7 middlewares into one security middleware
+2019-03-19 13:35:13,703 INFO 1450 [egg:core] dump config after load, 5ms
+2019-03-19 13:35:13,718 INFO 1450 [egg-watcher:application] watcher start success
+2019-03-19 13:35:13,724 INFO 1450 [egg:core] dump config after ready, 4ms
+2019-03-19 14:05:41,867 INFO 1484 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 14:05:41,910 INFO 1484 [egg-multipart] stream mode enable
+2019-03-19 14:05:41,950 INFO 1484 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 14:05:41,953 INFO 1484 [egg-security] use methodnoallow middleware
+2019-03-19 14:05:41,953 INFO 1484 [egg-security] use noopen middleware
+2019-03-19 14:05:41,953 INFO 1484 [egg-security] use nosniff middleware
+2019-03-19 14:05:41,954 INFO 1484 [egg-security] use xssProtection middleware
+2019-03-19 14:05:41,954 INFO 1484 [egg-security] use xframe middleware
+2019-03-19 14:05:41,954 INFO 1484 [egg-security] use dta middleware
+2019-03-19 14:05:41,954 INFO 1484 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 14:05:41,963 INFO 1484 [egg:core] dump config after load, 5ms
+2019-03-19 14:05:41,978 INFO 1484 [egg-watcher:application] watcher start success
+2019-03-19 14:05:41,983 INFO 1484 [egg:core] dump config after ready, 3ms
+2019-03-19 15:41:40,173 INFO 1625 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 15:41:40,201 INFO 1625 [egg-multipart] stream mode enable
+2019-03-19 15:41:40,255 INFO 1625 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 15:41:40,257 INFO 1625 [egg-security] use methodnoallow middleware
+2019-03-19 15:41:40,257 INFO 1625 [egg-security] use noopen middleware
+2019-03-19 15:41:40,258 INFO 1625 [egg-security] use nosniff middleware
+2019-03-19 15:41:40,258 INFO 1625 [egg-security] use xssProtection middleware
+2019-03-19 15:41:40,259 INFO 1625 [egg-security] use xframe middleware
+2019-03-19 15:41:40,259 INFO 1625 [egg-security] use dta middleware
+2019-03-19 15:41:40,259 INFO 1625 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 15:41:40,269 INFO 1625 [egg:core] dump config after load, 5ms
+2019-03-19 15:41:40,284 INFO 1625 [egg-watcher:application] watcher start success
+2019-03-19 15:41:40,290 INFO 1625 [egg:core] dump config after ready, 4ms
+2019-03-19 15:41:57,687 INFO 1625 [egg-view-nunjucks] loading templates from ["/Users/leitingting/work/egg-demo/app/view"]
+2019-03-19 15:45:13,816 INFO 1638 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 15:45:13,853 INFO 1638 [egg-multipart] stream mode enable
+2019-03-19 15:45:13,917 INFO 1638 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 15:45:13,919 INFO 1638 [egg-security] use methodnoallow middleware
+2019-03-19 15:45:13,919 INFO 1638 [egg-security] use noopen middleware
+2019-03-19 15:45:13,920 INFO 1638 [egg-security] use nosniff middleware
+2019-03-19 15:45:13,920 INFO 1638 [egg-security] use xssProtection middleware
+2019-03-19 15:45:13,921 INFO 1638 [egg-security] use xframe middleware
+2019-03-19 15:45:13,921 INFO 1638 [egg-security] use dta middleware
+2019-03-19 15:45:13,921 INFO 1638 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 15:45:13,931 INFO 1638 [egg:core] dump config after load, 6ms
+2019-03-19 15:45:13,944 INFO 1638 [egg-watcher:application] watcher start success
+2019-03-19 15:45:13,952 INFO 1638 [egg:core] dump config after ready, 5ms
+2019-03-19 15:45:14,869 INFO 1639 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 15:45:14,901 INFO 1639 [egg-multipart] stream mode enable
+2019-03-19 15:45:14,946 INFO 1639 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 15:45:14,949 INFO 1639 [egg-security] use methodnoallow middleware
+2019-03-19 15:45:14,949 INFO 1639 [egg-security] use noopen middleware
+2019-03-19 15:45:14,949 INFO 1639 [egg-security] use nosniff middleware
+2019-03-19 15:45:14,950 INFO 1639 [egg-security] use xssProtection middleware
+2019-03-19 15:45:14,950 INFO 1639 [egg-security] use xframe middleware
+2019-03-19 15:45:14,950 INFO 1639 [egg-security] use dta middleware
+2019-03-19 15:45:14,950 INFO 1639 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 15:45:14,960 INFO 1639 [egg:core] dump config after load, 5ms
+2019-03-19 15:45:14,974 INFO 1639 [egg-watcher:application] watcher start success
+2019-03-19 15:45:14,979 INFO 1639 [egg:core] dump config after ready, 3ms
+2019-03-19 15:45:25,969 INFO 1639 [egg-view-nunjucks] loading templates from ["/Users/leitingting/work/egg-demo/app/view"]
+2019-03-19 15:55:45,334 INFO 1656 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 15:55:45,372 INFO 1656 [egg-multipart] stream mode enable
+2019-03-19 15:55:45,437 INFO 1656 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 15:55:45,441 INFO 1656 [egg-security] use methodnoallow middleware
+2019-03-19 15:55:45,442 INFO 1656 [egg-security] use noopen middleware
+2019-03-19 15:55:45,442 INFO 1656 [egg-security] use nosniff middleware
+2019-03-19 15:55:45,443 INFO 1656 [egg-security] use xssProtection middleware
+2019-03-19 15:55:45,443 INFO 1656 [egg-security] use xframe middleware
+2019-03-19 15:55:45,443 INFO 1656 [egg-security] use dta middleware
+2019-03-19 15:55:45,443 INFO 1656 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 15:55:45,455 INFO 1656 [egg:core] dump config after load, 7ms
+2019-03-19 15:55:45,468 INFO 1656 [egg-watcher:application] watcher start success
+2019-03-19 15:55:45,474 INFO 1656 [egg:core] dump config after ready, 4ms
+2019-03-19 15:55:46,269 INFO 1657 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 15:55:46,305 INFO 1657 [egg-multipart] stream mode enable
+2019-03-19 15:55:46,365 INFO 1657 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 15:55:46,367 INFO 1657 [egg-security] use methodnoallow middleware
+2019-03-19 15:55:46,368 INFO 1657 [egg-security] use noopen middleware
+2019-03-19 15:55:46,368 INFO 1657 [egg-security] use nosniff middleware
+2019-03-19 15:55:46,369 INFO 1657 [egg-security] use xssProtection middleware
+2019-03-19 15:55:46,369 INFO 1657 [egg-security] use xframe middleware
+2019-03-19 15:55:46,369 INFO 1657 [egg-security] use dta middleware
+2019-03-19 15:55:46,369 INFO 1657 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 15:55:46,379 INFO 1657 [egg:core] dump config after load, 5ms
+2019-03-19 15:55:46,401 INFO 1657 [egg-watcher:application] watcher start success
+2019-03-19 15:55:46,407 INFO 1657 [egg:core] dump config after ready, 4ms
+2019-03-19 15:56:09,796 INFO 1663 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 15:56:09,826 INFO 1663 [egg-multipart] stream mode enable
+2019-03-19 15:56:09,870 INFO 1663 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 15:56:09,872 INFO 1663 [egg-security] use methodnoallow middleware
+2019-03-19 15:56:09,872 INFO 1663 [egg-security] use noopen middleware
+2019-03-19 15:56:09,873 INFO 1663 [egg-security] use nosniff middleware
+2019-03-19 15:56:09,873 INFO 1663 [egg-security] use xssProtection middleware
+2019-03-19 15:56:09,874 INFO 1663 [egg-security] use xframe middleware
+2019-03-19 15:56:09,874 INFO 1663 [egg-security] use dta middleware
+2019-03-19 15:56:09,874 INFO 1663 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 15:56:09,888 INFO 1663 [egg:core] dump config after load, 6ms
+2019-03-19 15:56:09,905 INFO 1663 [egg-watcher:application] watcher start success
+2019-03-19 15:56:09,911 INFO 1663 [egg:core] dump config after ready, 4ms
+2019-03-19 15:56:39,236 INFO 1663 [egg-view-nunjucks] loading templates from ["/Users/leitingting/work/egg-demo/app/view"]
+2019-03-19 17:30:36,665 INFO 1869 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 17:30:36,694 INFO 1869 [egg-multipart] stream mode enable
+2019-03-19 17:30:36,768 INFO 1869 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 17:30:36,771 INFO 1869 [egg-security] use methodnoallow middleware
+2019-03-19 17:30:36,772 INFO 1869 [egg-security] use noopen middleware
+2019-03-19 17:30:36,772 INFO 1869 [egg-security] use nosniff middleware
+2019-03-19 17:30:36,773 INFO 1869 [egg-security] use xssProtection middleware
+2019-03-19 17:30:36,773 INFO 1869 [egg-security] use xframe middleware
+2019-03-19 17:30:36,774 INFO 1869 [egg-security] use dta middleware
+2019-03-19 17:30:36,774 INFO 1869 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 17:30:36,785 INFO 1869 [egg:core] dump config after load, 5ms
+2019-03-19 17:30:36,801 INFO 1869 [egg-watcher:application] watcher start success
+2019-03-19 17:30:36,806 INFO 1869 [egg:core] dump config after ready, 3ms
+2019-03-19 17:36:07,095 INFO 1878 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 17:36:07,132 INFO 1878 [egg-multipart] stream mode enable
+2019-03-19 17:36:07,181 INFO 1878 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 17:36:07,184 INFO 1878 [egg-security] use methodnoallow middleware
+2019-03-19 17:36:07,185 INFO 1878 [egg-security] use noopen middleware
+2019-03-19 17:36:07,185 INFO 1878 [egg-security] use nosniff middleware
+2019-03-19 17:36:07,185 INFO 1878 [egg-security] use xssProtection middleware
+2019-03-19 17:36:07,186 INFO 1878 [egg-security] use xframe middleware
+2019-03-19 17:36:07,186 INFO 1878 [egg-security] use dta middleware
+2019-03-19 17:36:07,186 INFO 1878 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 17:36:07,195 INFO 1878 [egg:core] dump config after load, 5ms
+2019-03-19 17:36:07,211 INFO 1878 [egg-watcher:application] watcher start success
+2019-03-19 17:36:07,217 INFO 1878 [egg:core] dump config after ready, 4ms
+2019-03-19 17:39:08,643 INFO 1880 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 17:39:08,678 INFO 1880 [egg-multipart] stream mode enable
+2019-03-19 17:39:08,722 INFO 1880 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 17:39:08,724 INFO 1880 [egg-security] use methodnoallow middleware
+2019-03-19 17:39:08,725 INFO 1880 [egg-security] use noopen middleware
+2019-03-19 17:39:08,725 INFO 1880 [egg-security] use nosniff middleware
+2019-03-19 17:39:08,725 INFO 1880 [egg-security] use xssProtection middleware
+2019-03-19 17:39:08,726 INFO 1880 [egg-security] use xframe middleware
+2019-03-19 17:39:08,726 INFO 1880 [egg-security] use dta middleware
+2019-03-19 17:39:08,726 INFO 1880 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 17:39:08,735 INFO 1880 [egg:core] dump config after load, 5ms
+2019-03-19 17:39:08,747 INFO 1880 [egg-watcher:application] watcher start success
+2019-03-19 17:39:08,754 INFO 1880 [egg:core] dump config after ready, 3ms
+2019-03-19 17:39:09,536 INFO 1881 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 17:39:09,581 INFO 1881 [egg-multipart] stream mode enable
+2019-03-19 17:39:09,633 INFO 1881 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 17:39:09,635 INFO 1881 [egg-security] use methodnoallow middleware
+2019-03-19 17:39:09,636 INFO 1881 [egg-security] use noopen middleware
+2019-03-19 17:39:09,636 INFO 1881 [egg-security] use nosniff middleware
+2019-03-19 17:39:09,636 INFO 1881 [egg-security] use xssProtection middleware
+2019-03-19 17:39:09,637 INFO 1881 [egg-security] use xframe middleware
+2019-03-19 17:39:09,637 INFO 1881 [egg-security] use dta middleware
+2019-03-19 17:39:09,637 INFO 1881 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 17:39:09,655 INFO 1881 [egg:core] dump config after load, 7ms
+2019-03-19 17:39:09,675 INFO 1881 [egg-watcher:application] watcher start success
+2019-03-19 17:39:10,288 INFO 1882 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 17:39:10,319 INFO 1882 [egg-multipart] stream mode enable
+2019-03-19 17:39:10,380 INFO 1882 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 17:39:10,383 INFO 1882 [egg-security] use methodnoallow middleware
+2019-03-19 17:39:10,386 INFO 1882 [egg-security] use noopen middleware
+2019-03-19 17:39:10,386 INFO 1882 [egg-security] use nosniff middleware
+2019-03-19 17:39:10,387 INFO 1882 [egg-security] use xssProtection middleware
+2019-03-19 17:39:10,387 INFO 1882 [egg-security] use xframe middleware
+2019-03-19 17:39:10,388 INFO 1882 [egg-security] use dta middleware
+2019-03-19 17:39:10,388 INFO 1882 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 17:39:10,398 INFO 1882 [egg:core] dump config after load, 6ms
+2019-03-19 17:39:10,415 INFO 1882 [egg-watcher:application] watcher start success
+2019-03-19 17:39:10,425 INFO 1882 [egg:core] dump config after ready, 7ms
+2019-03-19 17:39:10,640 INFO 1883 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 17:39:10,671 INFO 1883 [egg-multipart] stream mode enable
+2019-03-19 17:39:10,722 INFO 1883 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 17:39:10,724 INFO 1883 [egg-security] use methodnoallow middleware
+2019-03-19 17:39:10,724 INFO 1883 [egg-security] use noopen middleware
+2019-03-19 17:39:10,725 INFO 1883 [egg-security] use nosniff middleware
+2019-03-19 17:39:10,725 INFO 1883 [egg-security] use xssProtection middleware
+2019-03-19 17:39:10,725 INFO 1883 [egg-security] use xframe middleware
+2019-03-19 17:39:10,726 INFO 1883 [egg-security] use dta middleware
+2019-03-19 17:39:10,726 INFO 1883 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 17:39:10,735 INFO 1883 [egg:core] dump config after load, 5ms
+2019-03-19 17:39:10,748 INFO 1883 [egg-watcher:application] watcher start success
+2019-03-19 17:39:10,754 INFO 1883 [egg:core] dump config after ready, 3ms
+2019-03-19 17:45:03,035 INFO 1885 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 17:45:03,063 INFO 1885 [egg-multipart] stream mode enable
+2019-03-19 17:45:03,108 INFO 1885 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 17:45:03,110 INFO 1885 [egg-security] use methodnoallow middleware
+2019-03-19 17:45:03,111 INFO 1885 [egg-security] use noopen middleware
+2019-03-19 17:45:03,111 INFO 1885 [egg-security] use nosniff middleware
+2019-03-19 17:45:03,111 INFO 1885 [egg-security] use xssProtection middleware
+2019-03-19 17:45:03,112 INFO 1885 [egg-security] use xframe middleware
+2019-03-19 17:45:03,112 INFO 1885 [egg-security] use dta middleware
+2019-03-19 17:45:03,112 INFO 1885 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 17:45:03,121 INFO 1885 [egg:core] dump config after load, 5ms
+2019-03-19 17:45:03,133 INFO 1885 [egg-watcher:application] watcher start success
+2019-03-19 17:45:03,138 INFO 1885 [egg:core] dump config after ready, 3ms
+2019-03-19 18:05:48,509 INFO 1928 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:05:48,538 INFO 1928 [egg-multipart] stream mode enable
+2019-03-19 18:05:48,582 INFO 1928 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:05:48,584 INFO 1928 [egg-security] use methodnoallow middleware
+2019-03-19 18:05:48,584 INFO 1928 [egg-security] use noopen middleware
+2019-03-19 18:05:48,585 INFO 1928 [egg-security] use nosniff middleware
+2019-03-19 18:05:48,585 INFO 1928 [egg-security] use xssProtection middleware
+2019-03-19 18:05:48,585 INFO 1928 [egg-security] use xframe middleware
+2019-03-19 18:05:48,585 INFO 1928 [egg-security] use dta middleware
+2019-03-19 18:05:48,585 INFO 1928 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:05:48,595 INFO 1928 [egg:core] dump config after load, 4ms
+2019-03-19 18:05:48,607 INFO 1928 [egg-watcher:application] watcher start success
+2019-03-19 18:05:48,612 INFO 1928 [egg:core] dump config after ready, 3ms
+2019-03-19 18:05:49,281 INFO 1929 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:05:49,309 INFO 1929 [egg-multipart] stream mode enable
+2019-03-19 18:05:49,355 INFO 1929 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:05:49,358 INFO 1929 [egg-security] use methodnoallow middleware
+2019-03-19 18:05:49,358 INFO 1929 [egg-security] use noopen middleware
+2019-03-19 18:05:49,359 INFO 1929 [egg-security] use nosniff middleware
+2019-03-19 18:05:49,359 INFO 1929 [egg-security] use xssProtection middleware
+2019-03-19 18:05:49,359 INFO 1929 [egg-security] use xframe middleware
+2019-03-19 18:05:49,359 INFO 1929 [egg-security] use dta middleware
+2019-03-19 18:05:49,359 INFO 1929 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:05:49,369 INFO 1929 [egg:core] dump config after load, 5ms
+2019-03-19 18:05:49,384 INFO 1929 [egg-watcher:application] watcher start success
+2019-03-19 18:05:49,390 INFO 1929 [egg:core] dump config after ready, 4ms
+2019-03-19 18:06:05,282 INFO 1936 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:06:05,311 INFO 1936 [egg-multipart] stream mode enable
+2019-03-19 18:06:05,354 INFO 1936 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:06:05,356 INFO 1936 [egg-security] use methodnoallow middleware
+2019-03-19 18:06:05,357 INFO 1936 [egg-security] use noopen middleware
+2019-03-19 18:06:05,357 INFO 1936 [egg-security] use nosniff middleware
+2019-03-19 18:06:05,358 INFO 1936 [egg-security] use xssProtection middleware
+2019-03-19 18:06:05,358 INFO 1936 [egg-security] use xframe middleware
+2019-03-19 18:06:05,358 INFO 1936 [egg-security] use dta middleware
+2019-03-19 18:06:05,358 INFO 1936 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:06:05,368 INFO 1936 [egg:core] dump config after load, 6ms
+2019-03-19 18:06:05,383 INFO 1936 [egg-watcher:application] watcher start success
+2019-03-19 18:06:05,389 INFO 1936 [egg:core] dump config after ready, 4ms
+2019-03-19 18:06:59,492 INFO 1938 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:06:59,522 INFO 1938 [egg-multipart] stream mode enable
+2019-03-19 18:06:59,585 INFO 1938 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:06:59,587 INFO 1938 [egg-security] use methodnoallow middleware
+2019-03-19 18:06:59,588 INFO 1938 [egg-security] use noopen middleware
+2019-03-19 18:06:59,588 INFO 1938 [egg-security] use nosniff middleware
+2019-03-19 18:06:59,589 INFO 1938 [egg-security] use xssProtection middleware
+2019-03-19 18:06:59,589 INFO 1938 [egg-security] use xframe middleware
+2019-03-19 18:06:59,589 INFO 1938 [egg-security] use dta middleware
+2019-03-19 18:06:59,589 INFO 1938 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:06:59,602 INFO 1938 [egg:core] dump config after load, 5ms
+2019-03-19 18:06:59,615 INFO 1938 [egg-watcher:application] watcher start success
+2019-03-19 18:06:59,621 INFO 1938 [egg:core] dump config after ready, 4ms
+2019-03-19 18:07:00,454 INFO 1939 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:07:00,485 INFO 1939 [egg-multipart] stream mode enable
+2019-03-19 18:07:00,530 INFO 1939 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:07:00,533 INFO 1939 [egg-security] use methodnoallow middleware
+2019-03-19 18:07:00,533 INFO 1939 [egg-security] use noopen middleware
+2019-03-19 18:07:00,533 INFO 1939 [egg-security] use nosniff middleware
+2019-03-19 18:07:00,534 INFO 1939 [egg-security] use xssProtection middleware
+2019-03-19 18:07:00,534 INFO 1939 [egg-security] use xframe middleware
+2019-03-19 18:07:00,534 INFO 1939 [egg-security] use dta middleware
+2019-03-19 18:07:00,534 INFO 1939 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:07:00,550 INFO 1939 [egg:core] dump config after load, 8ms
+2019-03-19 18:07:00,565 INFO 1939 [egg-watcher:application] watcher start success
+2019-03-19 18:07:00,571 INFO 1939 [egg:core] dump config after ready, 4ms
+2019-03-19 18:07:01,349 INFO 1940 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:07:01,389 INFO 1940 [egg-multipart] stream mode enable
+2019-03-19 18:07:01,452 INFO 1940 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:07:01,454 INFO 1940 [egg-security] use methodnoallow middleware
+2019-03-19 18:07:01,454 INFO 1940 [egg-security] use noopen middleware
+2019-03-19 18:07:01,455 INFO 1940 [egg-security] use nosniff middleware
+2019-03-19 18:07:01,455 INFO 1940 [egg-security] use xssProtection middleware
+2019-03-19 18:07:01,455 INFO 1940 [egg-security] use xframe middleware
+2019-03-19 18:07:01,456 INFO 1940 [egg-security] use dta middleware
+2019-03-19 18:07:01,456 INFO 1940 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:07:01,468 INFO 1940 [egg:core] dump config after load, 7ms
+2019-03-19 18:07:01,483 INFO 1940 [egg-watcher:application] watcher start success
+2019-03-19 18:07:01,491 INFO 1940 [egg:core] dump config after ready, 5ms
+2019-03-19 18:07:16,068 INFO 1944 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:07:16,103 INFO 1944 [egg-multipart] stream mode enable
+2019-03-19 18:07:16,158 INFO 1944 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:07:16,163 INFO 1944 [egg-security] use methodnoallow middleware
+2019-03-19 18:07:16,164 INFO 1944 [egg-security] use noopen middleware
+2019-03-19 18:07:16,164 INFO 1944 [egg-security] use nosniff middleware
+2019-03-19 18:07:16,165 INFO 1944 [egg-security] use xssProtection middleware
+2019-03-19 18:07:16,165 INFO 1944 [egg-security] use xframe middleware
+2019-03-19 18:07:16,165 INFO 1944 [egg-security] use dta middleware
+2019-03-19 18:07:16,165 INFO 1944 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:07:16,186 INFO 1944 [egg:core] dump config after load, 13ms
+2019-03-19 18:07:16,223 INFO 1944 [egg-watcher:application] watcher start success
+2019-03-19 18:07:16,236 INFO 1944 [egg:core] dump config after ready, 6ms
+2019-03-19 18:07:38,700 INFO 1947 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:07:38,734 INFO 1947 [egg-multipart] stream mode enable
+2019-03-19 18:07:38,787 INFO 1947 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:07:38,790 INFO 1947 [egg-security] use methodnoallow middleware
+2019-03-19 18:07:38,790 INFO 1947 [egg-security] use noopen middleware
+2019-03-19 18:07:38,790 INFO 1947 [egg-security] use nosniff middleware
+2019-03-19 18:07:38,791 INFO 1947 [egg-security] use xssProtection middleware
+2019-03-19 18:07:38,791 INFO 1947 [egg-security] use xframe middleware
+2019-03-19 18:07:38,791 INFO 1947 [egg-security] use dta middleware
+2019-03-19 18:07:38,792 INFO 1947 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:07:38,802 INFO 1947 [egg:core] dump config after load, 5ms
+2019-03-19 18:07:38,815 INFO 1947 [egg-watcher:application] watcher start success
+2019-03-19 18:07:38,824 INFO 1947 [egg:core] dump config after ready, 5ms
+2019-03-19 18:07:57,449 INFO 1949 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:07:57,479 INFO 1949 [egg-multipart] stream mode enable
+2019-03-19 18:07:57,524 INFO 1949 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:07:57,526 INFO 1949 [egg-security] use methodnoallow middleware
+2019-03-19 18:07:57,526 INFO 1949 [egg-security] use noopen middleware
+2019-03-19 18:07:57,527 INFO 1949 [egg-security] use nosniff middleware
+2019-03-19 18:07:57,527 INFO 1949 [egg-security] use xssProtection middleware
+2019-03-19 18:07:57,528 INFO 1949 [egg-security] use xframe middleware
+2019-03-19 18:07:57,528 INFO 1949 [egg-security] use dta middleware
+2019-03-19 18:07:57,528 INFO 1949 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:07:57,538 INFO 1949 [egg:core] dump config after load, 5ms
+2019-03-19 18:07:57,550 INFO 1949 [egg-watcher:application] watcher start success
+2019-03-19 18:07:57,555 INFO 1949 [egg:core] dump config after ready, 3ms
+2019-03-19 18:08:00,461 INFO 1951 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:08:00,509 INFO 1951 [egg-multipart] stream mode enable
+2019-03-19 18:08:00,616 INFO 1951 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:08:00,621 INFO 1951 [egg-security] use methodnoallow middleware
+2019-03-19 18:08:00,621 INFO 1951 [egg-security] use noopen middleware
+2019-03-19 18:08:00,622 INFO 1951 [egg-security] use nosniff middleware
+2019-03-19 18:08:00,622 INFO 1951 [egg-security] use xssProtection middleware
+2019-03-19 18:08:00,623 INFO 1951 [egg-security] use xframe middleware
+2019-03-19 18:08:00,624 INFO 1951 [egg-security] use dta middleware
+2019-03-19 18:08:00,625 INFO 1951 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:08:00,642 INFO 1951 [egg:core] dump config after load, 11ms
+2019-03-19 18:08:00,664 INFO 1951 [egg-watcher:application] watcher start success
+2019-03-19 18:08:00,673 INFO 1951 [egg:core] dump config after ready, 6ms
+2019-03-19 18:10:19,107 INFO 1957 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:10:19,151 INFO 1957 [egg-multipart] stream mode enable
+2019-03-19 18:10:19,215 INFO 1957 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:10:19,217 INFO 1957 [egg-security] use methodnoallow middleware
+2019-03-19 18:10:19,218 INFO 1957 [egg-security] use noopen middleware
+2019-03-19 18:10:19,218 INFO 1957 [egg-security] use nosniff middleware
+2019-03-19 18:10:19,219 INFO 1957 [egg-security] use xssProtection middleware
+2019-03-19 18:10:19,219 INFO 1957 [egg-security] use xframe middleware
+2019-03-19 18:10:19,219 INFO 1957 [egg-security] use dta middleware
+2019-03-19 18:10:19,219 INFO 1957 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:10:19,231 INFO 1957 [egg:core] dump config after load, 6ms
+2019-03-19 18:10:19,247 INFO 1957 [egg-watcher:application] watcher start success
+2019-03-19 18:10:19,256 INFO 1957 [egg:core] dump config after ready, 4ms
+2019-03-19 18:10:20,027 INFO 1958 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:10:20,065 INFO 1958 [egg-multipart] stream mode enable
+2019-03-19 18:10:20,127 INFO 1958 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:10:20,129 INFO 1958 [egg-security] use methodnoallow middleware
+2019-03-19 18:10:20,129 INFO 1958 [egg-security] use noopen middleware
+2019-03-19 18:10:20,130 INFO 1958 [egg-security] use nosniff middleware
+2019-03-19 18:10:20,130 INFO 1958 [egg-security] use xssProtection middleware
+2019-03-19 18:10:20,131 INFO 1958 [egg-security] use xframe middleware
+2019-03-19 18:10:20,131 INFO 1958 [egg-security] use dta middleware
+2019-03-19 18:10:20,131 INFO 1958 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:10:20,144 INFO 1958 [egg:core] dump config after load, 7ms
+2019-03-19 18:10:20,166 INFO 1958 [egg-watcher:application] watcher start success
+2019-03-19 18:10:20,172 INFO 1958 [egg:core] dump config after ready, 4ms
+2019-03-19 18:10:51,079 INFO 1960 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:10:51,113 INFO 1960 [egg-multipart] stream mode enable
+2019-03-19 18:10:51,166 INFO 1960 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:10:51,168 INFO 1960 [egg-security] use methodnoallow middleware
+2019-03-19 18:10:51,168 INFO 1960 [egg-security] use noopen middleware
+2019-03-19 18:10:51,169 INFO 1960 [egg-security] use nosniff middleware
+2019-03-19 18:10:51,169 INFO 1960 [egg-security] use xssProtection middleware
+2019-03-19 18:10:51,169 INFO 1960 [egg-security] use xframe middleware
+2019-03-19 18:10:51,169 INFO 1960 [egg-security] use dta middleware
+2019-03-19 18:10:51,169 INFO 1960 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:10:51,180 INFO 1960 [egg:core] dump config after load, 5ms
+2019-03-19 18:10:51,192 INFO 1960 [egg-watcher:application] watcher start success
+2019-03-19 18:10:51,197 INFO 1960 [egg:core] dump config after ready, 3ms
+2019-03-19 18:10:51,971 INFO 1961 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:10:52,002 INFO 1961 [egg-multipart] stream mode enable
+2019-03-19 18:10:52,051 INFO 1961 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:10:52,053 INFO 1961 [egg-security] use methodnoallow middleware
+2019-03-19 18:10:52,053 INFO 1961 [egg-security] use noopen middleware
+2019-03-19 18:10:52,054 INFO 1961 [egg-security] use nosniff middleware
+2019-03-19 18:10:52,054 INFO 1961 [egg-security] use xssProtection middleware
+2019-03-19 18:10:52,055 INFO 1961 [egg-security] use xframe middleware
+2019-03-19 18:10:52,055 INFO 1961 [egg-security] use dta middleware
+2019-03-19 18:10:52,055 INFO 1961 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:10:52,066 INFO 1961 [egg:core] dump config after load, 5ms
+2019-03-19 18:10:52,081 INFO 1961 [egg-watcher:application] watcher start success
+2019-03-19 18:10:52,091 INFO 1961 [egg:core] dump config after ready, 6ms
+2019-03-19 18:11:23,572 INFO 1963 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:11:23,629 INFO 1963 [egg-multipart] stream mode enable
+2019-03-19 18:11:23,731 INFO 1963 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:11:23,735 INFO 1963 [egg-security] use methodnoallow middleware
+2019-03-19 18:11:23,735 INFO 1963 [egg-security] use noopen middleware
+2019-03-19 18:11:23,737 INFO 1963 [egg-security] use nosniff middleware
+2019-03-19 18:11:23,739 INFO 1963 [egg-security] use xssProtection middleware
+2019-03-19 18:11:23,740 INFO 1963 [egg-security] use xframe middleware
+2019-03-19 18:11:23,740 INFO 1963 [egg-security] use dta middleware
+2019-03-19 18:11:23,740 INFO 1963 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:11:23,769 INFO 1963 [egg:core] dump config after load, 12ms
+2019-03-19 18:11:23,798 INFO 1963 [egg-watcher:application] watcher start success
+2019-03-19 18:11:23,809 INFO 1963 [egg:core] dump config after ready, 5ms
+2019-03-19 18:11:44,001 INFO 1965 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:11:44,036 INFO 1965 [egg-multipart] stream mode enable
+2019-03-19 18:11:44,091 INFO 1965 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:11:44,094 INFO 1965 [egg-security] use methodnoallow middleware
+2019-03-19 18:11:44,094 INFO 1965 [egg-security] use noopen middleware
+2019-03-19 18:11:44,094 INFO 1965 [egg-security] use nosniff middleware
+2019-03-19 18:11:44,095 INFO 1965 [egg-security] use xssProtection middleware
+2019-03-19 18:11:44,096 INFO 1965 [egg-security] use xframe middleware
+2019-03-19 18:11:44,096 INFO 1965 [egg-security] use dta middleware
+2019-03-19 18:11:44,096 INFO 1965 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:11:44,110 INFO 1965 [egg:core] dump config after load, 5ms
+2019-03-19 18:11:44,124 INFO 1965 [egg-watcher:application] watcher start success
+2019-03-19 18:11:44,130 INFO 1965 [egg:core] dump config after ready, 4ms
+2019-03-19 18:11:50,072 INFO 1967 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:11:50,136 INFO 1967 [egg-multipart] stream mode enable
+2019-03-19 18:11:50,200 INFO 1967 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:11:50,202 INFO 1967 [egg-security] use methodnoallow middleware
+2019-03-19 18:11:50,203 INFO 1967 [egg-security] use noopen middleware
+2019-03-19 18:11:50,203 INFO 1967 [egg-security] use nosniff middleware
+2019-03-19 18:11:50,204 INFO 1967 [egg-security] use xssProtection middleware
+2019-03-19 18:11:50,204 INFO 1967 [egg-security] use xframe middleware
+2019-03-19 18:11:50,204 INFO 1967 [egg-security] use dta middleware
+2019-03-19 18:11:50,204 INFO 1967 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:11:50,217 INFO 1967 [egg:core] dump config after load, 7ms
+2019-03-19 18:11:50,230 INFO 1967 [egg-watcher:application] watcher start success
+2019-03-19 18:11:50,236 INFO 1967 [egg:core] dump config after ready, 3ms
+2019-03-19 18:11:51,020 INFO 1968 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:11:51,076 INFO 1968 [egg-multipart] stream mode enable
+2019-03-19 18:11:51,170 INFO 1968 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:11:51,175 INFO 1968 [egg-security] use methodnoallow middleware
+2019-03-19 18:11:51,176 INFO 1968 [egg-security] use noopen middleware
+2019-03-19 18:11:51,176 INFO 1968 [egg-security] use nosniff middleware
+2019-03-19 18:11:51,177 INFO 1968 [egg-security] use xssProtection middleware
+2019-03-19 18:11:51,177 INFO 1968 [egg-security] use xframe middleware
+2019-03-19 18:11:51,179 INFO 1968 [egg-security] use dta middleware
+2019-03-19 18:11:51,179 INFO 1968 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:11:51,203 INFO 1968 [egg:core] dump config after load, 12ms
+2019-03-19 18:11:51,238 INFO 1968 [egg-watcher:application] watcher start success
+2019-03-19 18:11:51,835 INFO 1969 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:11:51,865 INFO 1969 [egg-multipart] stream mode enable
+2019-03-19 18:11:51,914 INFO 1969 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:11:51,916 INFO 1969 [egg-security] use methodnoallow middleware
+2019-03-19 18:11:51,917 INFO 1969 [egg-security] use noopen middleware
+2019-03-19 18:11:51,917 INFO 1969 [egg-security] use nosniff middleware
+2019-03-19 18:11:51,917 INFO 1969 [egg-security] use xssProtection middleware
+2019-03-19 18:11:51,918 INFO 1969 [egg-security] use xframe middleware
+2019-03-19 18:11:51,918 INFO 1969 [egg-security] use dta middleware
+2019-03-19 18:11:51,918 INFO 1969 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:11:51,929 INFO 1969 [egg:core] dump config after load, 5ms
+2019-03-19 18:11:51,944 INFO 1969 [egg-watcher:application] watcher start success
+2019-03-19 18:11:51,950 INFO 1969 [egg:core] dump config after ready, 3ms
+2019-03-19 18:11:55,161 INFO 1971 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:11:55,198 INFO 1971 [egg-multipart] stream mode enable
+2019-03-19 18:11:55,251 INFO 1971 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:11:55,254 INFO 1971 [egg-security] use methodnoallow middleware
+2019-03-19 18:11:55,254 INFO 1971 [egg-security] use noopen middleware
+2019-03-19 18:11:55,255 INFO 1971 [egg-security] use nosniff middleware
+2019-03-19 18:11:55,255 INFO 1971 [egg-security] use xssProtection middleware
+2019-03-19 18:11:55,256 INFO 1971 [egg-security] use xframe middleware
+2019-03-19 18:11:55,256 INFO 1971 [egg-security] use dta middleware
+2019-03-19 18:11:55,256 INFO 1971 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:11:55,267 INFO 1971 [egg:core] dump config after load, 5ms
+2019-03-19 18:11:55,279 INFO 1971 [egg-watcher:application] watcher start success
+2019-03-19 18:11:55,285 INFO 1971 [egg:core] dump config after ready, 3ms
+2019-03-19 18:11:56,033 INFO 1972 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:11:56,074 INFO 1972 [egg-multipart] stream mode enable
+2019-03-19 18:11:56,134 INFO 1972 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:11:56,137 INFO 1972 [egg-security] use methodnoallow middleware
+2019-03-19 18:11:56,137 INFO 1972 [egg-security] use noopen middleware
+2019-03-19 18:11:56,138 INFO 1972 [egg-security] use nosniff middleware
+2019-03-19 18:11:56,138 INFO 1972 [egg-security] use xssProtection middleware
+2019-03-19 18:11:56,138 INFO 1972 [egg-security] use xframe middleware
+2019-03-19 18:11:56,138 INFO 1972 [egg-security] use dta middleware
+2019-03-19 18:11:56,139 INFO 1972 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:11:56,149 INFO 1972 [egg:core] dump config after load, 6ms
+2019-03-19 18:11:56,165 INFO 1972 [egg-watcher:application] watcher start success
+2019-03-19 18:11:56,172 INFO 1972 [egg:core] dump config after ready, 4ms
+2019-03-19 18:11:57,375 INFO 1973 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:11:57,416 INFO 1973 [egg-multipart] stream mode enable
+2019-03-19 18:11:57,559 INFO 1973 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:11:57,565 INFO 1973 [egg-security] use methodnoallow middleware
+2019-03-19 18:11:57,566 INFO 1973 [egg-security] use noopen middleware
+2019-03-19 18:11:57,568 INFO 1973 [egg-security] use nosniff middleware
+2019-03-19 18:11:57,569 INFO 1973 [egg-security] use xssProtection middleware
+2019-03-19 18:11:57,570 INFO 1973 [egg-security] use xframe middleware
+2019-03-19 18:11:57,570 INFO 1973 [egg-security] use dta middleware
+2019-03-19 18:11:57,570 INFO 1973 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:11:57,598 INFO 1973 [egg:core] dump config after load, 9ms
+2019-03-19 18:11:57,620 INFO 1973 [egg-watcher:application] watcher start success
+2019-03-19 18:11:57,629 INFO 1973 [egg:core] dump config after ready, 6ms
+2019-03-19 18:11:59,708 INFO 1974 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:11:59,738 INFO 1974 [egg-multipart] stream mode enable
+2019-03-19 18:11:59,795 INFO 1974 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:11:59,799 INFO 1974 [egg-security] use methodnoallow middleware
+2019-03-19 18:11:59,800 INFO 1974 [egg-security] use noopen middleware
+2019-03-19 18:11:59,800 INFO 1974 [egg-security] use nosniff middleware
+2019-03-19 18:11:59,801 INFO 1974 [egg-security] use xssProtection middleware
+2019-03-19 18:11:59,801 INFO 1974 [egg-security] use xframe middleware
+2019-03-19 18:11:59,801 INFO 1974 [egg-security] use dta middleware
+2019-03-19 18:11:59,801 INFO 1974 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:11:59,819 INFO 1974 [egg:core] dump config after load, 11ms
+2019-03-19 18:11:59,834 INFO 1974 [egg-watcher:application] watcher start success
+2019-03-19 18:11:59,851 INFO 1974 [egg:core] dump config after ready, 14ms
+2019-03-19 18:12:08,347 INFO 1974 [egg-view-nunjucks] loading templates from ["/Users/leitingting/work/egg-demo/app/view"]
+2019-03-19 18:53:09,031 INFO 2033 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:53:09,060 INFO 2033 [egg-multipart] stream mode enable
+2019-03-19 18:53:09,104 INFO 2033 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:53:09,106 INFO 2033 [egg-security] use methodnoallow middleware
+2019-03-19 18:53:09,106 INFO 2033 [egg-security] use noopen middleware
+2019-03-19 18:53:09,107 INFO 2033 [egg-security] use nosniff middleware
+2019-03-19 18:53:09,107 INFO 2033 [egg-security] use xssProtection middleware
+2019-03-19 18:53:09,107 INFO 2033 [egg-security] use xframe middleware
+2019-03-19 18:53:09,108 INFO 2033 [egg-security] use dta middleware
+2019-03-19 18:53:09,108 INFO 2033 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:53:09,118 INFO 2033 [egg:core] dump config after load, 5ms
+2019-03-19 18:53:09,133 INFO 2033 [egg-watcher:application] watcher start success
+2019-03-19 18:53:09,138 INFO 2033 [egg:core] dump config after ready, 3ms
+2019-03-19 18:54:01,727 INFO 2035 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:54:01,756 INFO 2035 [egg-multipart] stream mode enable
+2019-03-19 18:54:01,804 INFO 2035 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:54:01,806 INFO 2035 [egg-security] use methodnoallow middleware
+2019-03-19 18:54:01,807 INFO 2035 [egg-security] use noopen middleware
+2019-03-19 18:54:01,807 INFO 2035 [egg-security] use nosniff middleware
+2019-03-19 18:54:01,807 INFO 2035 [egg-security] use xssProtection middleware
+2019-03-19 18:54:01,808 INFO 2035 [egg-security] use xframe middleware
+2019-03-19 18:54:01,808 INFO 2035 [egg-security] use dta middleware
+2019-03-19 18:54:01,808 INFO 2035 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:54:01,821 INFO 2035 [egg:core] dump config after load, 5ms
+2019-03-19 18:54:01,837 INFO 2035 [egg-watcher:application] watcher start success
+2019-03-19 18:54:01,845 INFO 2035 [egg:core] dump config after ready, 5ms
+2019-03-19 18:54:02,731 INFO 2036 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:54:02,762 INFO 2036 [egg-multipart] stream mode enable
+2019-03-19 18:54:02,834 INFO 2036 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:54:02,836 INFO 2036 [egg-security] use methodnoallow middleware
+2019-03-19 18:54:02,837 INFO 2036 [egg-security] use noopen middleware
+2019-03-19 18:54:02,837 INFO 2036 [egg-security] use nosniff middleware
+2019-03-19 18:54:02,837 INFO 2036 [egg-security] use xssProtection middleware
+2019-03-19 18:54:02,838 INFO 2036 [egg-security] use xframe middleware
+2019-03-19 18:54:02,838 INFO 2036 [egg-security] use dta middleware
+2019-03-19 18:54:02,838 INFO 2036 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:54:02,849 INFO 2036 [egg:core] dump config after load, 6ms
+2019-03-19 18:54:02,862 INFO 2036 [egg-watcher:application] watcher start success
+2019-03-19 18:54:02,867 INFO 2036 [egg:core] dump config after ready, 3ms
+2019-03-19 18:54:11,101 INFO 2039 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:54:11,147 INFO 2039 [egg-multipart] stream mode enable
+2019-03-19 18:54:11,193 INFO 2039 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:54:11,195 INFO 2039 [egg-security] use methodnoallow middleware
+2019-03-19 18:54:11,196 INFO 2039 [egg-security] use noopen middleware
+2019-03-19 18:54:11,196 INFO 2039 [egg-security] use nosniff middleware
+2019-03-19 18:54:11,196 INFO 2039 [egg-security] use xssProtection middleware
+2019-03-19 18:54:11,197 INFO 2039 [egg-security] use xframe middleware
+2019-03-19 18:54:11,197 INFO 2039 [egg-security] use dta middleware
+2019-03-19 18:54:11,197 INFO 2039 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:54:11,211 INFO 2039 [egg:core] dump config after load, 5ms
+2019-03-19 18:54:11,223 INFO 2039 [egg-watcher:application] watcher start success
+2019-03-19 18:54:11,228 INFO 2039 [egg:core] dump config after ready, 3ms
+2019-03-19 18:54:12,077 INFO 2040 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:54:12,105 INFO 2040 [egg-multipart] stream mode enable
+2019-03-19 18:54:12,148 INFO 2040 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:54:12,150 INFO 2040 [egg-security] use methodnoallow middleware
+2019-03-19 18:54:12,151 INFO 2040 [egg-security] use noopen middleware
+2019-03-19 18:54:12,151 INFO 2040 [egg-security] use nosniff middleware
+2019-03-19 18:54:12,151 INFO 2040 [egg-security] use xssProtection middleware
+2019-03-19 18:54:12,152 INFO 2040 [egg-security] use xframe middleware
+2019-03-19 18:54:12,152 INFO 2040 [egg-security] use dta middleware
+2019-03-19 18:54:12,152 INFO 2040 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:54:12,162 INFO 2040 [egg:core] dump config after load, 5ms
+2019-03-19 18:54:12,177 INFO 2040 [egg-watcher:application] watcher start success
+2019-03-19 18:54:12,186 INFO 2040 [egg:core] dump config after ready, 6ms
+2019-03-19 18:54:16,136 INFO 2042 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:54:16,166 INFO 2042 [egg-multipart] stream mode enable
+2019-03-19 18:54:16,224 INFO 2042 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:54:16,226 INFO 2042 [egg-security] use methodnoallow middleware
+2019-03-19 18:54:16,227 INFO 2042 [egg-security] use noopen middleware
+2019-03-19 18:54:16,227 INFO 2042 [egg-security] use nosniff middleware
+2019-03-19 18:54:16,228 INFO 2042 [egg-security] use xssProtection middleware
+2019-03-19 18:54:16,228 INFO 2042 [egg-security] use xframe middleware
+2019-03-19 18:54:16,228 INFO 2042 [egg-security] use dta middleware
+2019-03-19 18:54:16,228 INFO 2042 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:54:16,240 INFO 2042 [egg:core] dump config after load, 6ms
+2019-03-19 18:54:16,258 INFO 2042 [egg-watcher:application] watcher start success
+2019-03-19 18:54:16,264 INFO 2042 [egg:core] dump config after ready, 4ms
+2019-03-19 18:54:17,068 INFO 2043 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:54:17,099 INFO 2043 [egg-multipart] stream mode enable
+2019-03-19 18:54:17,151 INFO 2043 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:54:17,154 INFO 2043 [egg-security] use methodnoallow middleware
+2019-03-19 18:54:17,154 INFO 2043 [egg-security] use noopen middleware
+2019-03-19 18:54:17,154 INFO 2043 [egg-security] use nosniff middleware
+2019-03-19 18:54:17,155 INFO 2043 [egg-security] use xssProtection middleware
+2019-03-19 18:54:17,155 INFO 2043 [egg-security] use xframe middleware
+2019-03-19 18:54:17,155 INFO 2043 [egg-security] use dta middleware
+2019-03-19 18:54:17,155 INFO 2043 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:54:17,166 INFO 2043 [egg:core] dump config after load, 5ms
+2019-03-19 18:54:17,187 INFO 2043 [egg-watcher:application] watcher start success
+2019-03-19 18:54:17,197 INFO 2043 [egg:core] dump config after ready, 6ms
+2019-03-19 18:54:27,984 INFO 2049 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-19 18:54:28,013 INFO 2049 [egg-multipart] stream mode enable
+2019-03-19 18:54:28,057 INFO 2049 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-19 18:54:28,059 INFO 2049 [egg-security] use methodnoallow middleware
+2019-03-19 18:54:28,059 INFO 2049 [egg-security] use noopen middleware
+2019-03-19 18:54:28,060 INFO 2049 [egg-security] use nosniff middleware
+2019-03-19 18:54:28,060 INFO 2049 [egg-security] use xssProtection middleware
+2019-03-19 18:54:28,061 INFO 2049 [egg-security] use xframe middleware
+2019-03-19 18:54:28,061 INFO 2049 [egg-security] use dta middleware
+2019-03-19 18:54:28,061 INFO 2049 [egg-security] compose 6 middlewares into one security middleware
+2019-03-19 18:54:28,071 INFO 2049 [egg:core] dump config after load, 5ms
+2019-03-19 18:54:28,086 INFO 2049 [egg-watcher:application] watcher start success
+2019-03-19 18:54:28,091 INFO 2049 [egg:core] dump config after ready, 3ms
+2019-03-19 18:54:45,289 INFO 2049 [egg-view-nunjucks] loading templates from ["/Users/leitingting/work/egg-demo/app/view"]
+2019-03-20 09:49:29,667 INFO 659 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-20 09:49:29,696 INFO 659 [egg-multipart] stream mode enable
+2019-03-20 09:49:29,773 INFO 659 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-20 09:49:29,776 INFO 659 [egg-security] use methodnoallow middleware
+2019-03-20 09:49:29,776 INFO 659 [egg-security] use noopen middleware
+2019-03-20 09:49:29,777 INFO 659 [egg-security] use nosniff middleware
+2019-03-20 09:49:29,778 INFO 659 [egg-security] use xssProtection middleware
+2019-03-20 09:49:29,778 INFO 659 [egg-security] use xframe middleware
+2019-03-20 09:49:29,779 INFO 659 [egg-security] use dta middleware
+2019-03-20 09:49:29,779 INFO 659 [egg-security] compose 6 middlewares into one security middleware
+2019-03-20 09:49:29,791 INFO 659 [egg:core] dump config after load, 5ms
+2019-03-20 09:49:29,808 INFO 659 [egg-watcher:application] watcher start success
+2019-03-20 09:49:29,813 INFO 659 [egg:core] dump config after ready, 3ms
+2019-03-20 09:49:59,481 INFO 659 [egg-view-nunjucks] loading templates from ["/Users/leitingting/work/egg-demo/app/view"]
+2019-03-20 10:29:01,700 INFO 721 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-20 10:29:01,732 INFO 721 [egg-multipart] stream mode enable
+2019-03-20 10:29:01,790 INFO 721 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-20 10:29:01,792 INFO 721 [egg-security] use methodnoallow middleware
+2019-03-20 10:29:01,792 INFO 721 [egg-security] use noopen middleware
+2019-03-20 10:29:01,793 INFO 721 [egg-security] use nosniff middleware
+2019-03-20 10:29:01,793 INFO 721 [egg-security] use xssProtection middleware
+2019-03-20 10:29:01,793 INFO 721 [egg-security] use xframe middleware
+2019-03-20 10:29:01,793 INFO 721 [egg-security] use dta middleware
+2019-03-20 10:29:01,793 INFO 721 [egg-security] compose 6 middlewares into one security middleware
+2019-03-20 10:29:01,804 INFO 721 [egg:core] dump config after load, 6ms
+2019-03-20 10:29:01,816 INFO 721 [egg-watcher:application] watcher start success
+2019-03-20 10:29:01,822 INFO 721 [egg:core] dump config after ready, 4ms
+2019-03-20 11:57:13,768 INFO 1013 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-20 11:57:13,797 INFO 1013 [egg-multipart] stream mode enable
+2019-03-20 11:57:13,845 INFO 1013 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-20 11:57:13,847 INFO 1013 [egg-security] use methodnoallow middleware
+2019-03-20 11:57:13,847 INFO 1013 [egg-security] use noopen middleware
+2019-03-20 11:57:13,848 INFO 1013 [egg-security] use nosniff middleware
+2019-03-20 11:57:13,848 INFO 1013 [egg-security] use xssProtection middleware
+2019-03-20 11:57:13,849 INFO 1013 [egg-security] use xframe middleware
+2019-03-20 11:57:13,849 INFO 1013 [egg-security] use dta middleware
+2019-03-20 11:57:13,849 INFO 1013 [egg-security] compose 6 middlewares into one security middleware
+2019-03-20 11:57:13,859 INFO 1013 [egg:core] dump config after load, 5ms
+2019-03-20 11:57:13,875 INFO 1013 [egg-watcher:application] watcher start success
+2019-03-20 11:57:13,880 INFO 1013 [egg:core] dump config after ready, 3ms
+2019-03-20 13:08:18,375 WARN 1013 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-03-20 13:39:47,259 WARN 1013 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-03-20 13:39:47,260 WARN 1013 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-03-20 13:47:09,872 WARN 1013 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-03-21 19:25:09,918 INFO 2004 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:25:09,947 INFO 2004 [egg-multipart] stream mode enable
+2019-03-21 19:25:10,019 INFO 2004 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:25:10,022 INFO 2004 [egg-security] use methodnoallow middleware
+2019-03-21 19:25:10,023 INFO 2004 [egg-security] use noopen middleware
+2019-03-21 19:25:10,023 INFO 2004 [egg-security] use nosniff middleware
+2019-03-21 19:25:10,024 INFO 2004 [egg-security] use xssProtection middleware
+2019-03-21 19:25:10,025 INFO 2004 [egg-security] use xframe middleware
+2019-03-21 19:25:10,025 INFO 2004 [egg-security] use dta middleware
+2019-03-21 19:25:10,025 INFO 2004 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:25:10,038 INFO 2004 [egg:core] dump config after load, 6ms
+2019-03-21 19:25:10,054 INFO 2004 [egg-watcher:application] watcher start success
+2019-03-21 19:25:10,061 INFO 2004 [egg:core] dump config after ready, 5ms
+2019-03-21 19:25:42,389 INFO 2004 [egg-view-nunjucks] loading templates from ["/Users/leitingting/work/egg-demo/app/view"]
+2019-03-21 19:42:07,456 INFO 2034 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:42:07,484 INFO 2034 [egg-multipart] stream mode enable
+2019-03-21 19:42:07,529 INFO 2034 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:42:07,532 INFO 2034 [egg-security] use methodnoallow middleware
+2019-03-21 19:42:07,532 INFO 2034 [egg-security] use noopen middleware
+2019-03-21 19:42:07,533 INFO 2034 [egg-security] use nosniff middleware
+2019-03-21 19:42:07,533 INFO 2034 [egg-security] use xssProtection middleware
+2019-03-21 19:42:07,533 INFO 2034 [egg-security] use xframe middleware
+2019-03-21 19:42:07,534 INFO 2034 [egg-security] use dta middleware
+2019-03-21 19:42:07,534 INFO 2034 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:42:07,544 INFO 2034 [egg:core] dump config after load, 5ms
+2019-03-21 19:42:07,556 INFO 2034 [egg-watcher:application] watcher start success
+2019-03-21 19:42:07,561 INFO 2034 [egg:core] dump config after ready, 3ms
+2019-03-21 19:42:59,012 INFO 2038 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:42:59,041 INFO 2038 [egg-multipart] stream mode enable
+2019-03-21 19:42:59,093 INFO 2038 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:42:59,096 INFO 2038 [egg-security] use methodnoallow middleware
+2019-03-21 19:42:59,096 INFO 2038 [egg-security] use noopen middleware
+2019-03-21 19:42:59,097 INFO 2038 [egg-security] use nosniff middleware
+2019-03-21 19:42:59,097 INFO 2038 [egg-security] use xssProtection middleware
+2019-03-21 19:42:59,097 INFO 2038 [egg-security] use xframe middleware
+2019-03-21 19:42:59,098 INFO 2038 [egg-security] use dta middleware
+2019-03-21 19:42:59,098 INFO 2038 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:42:59,108 INFO 2038 [egg:core] dump config after load, 5ms
+2019-03-21 19:42:59,121 INFO 2038 [egg-watcher:application] watcher start success
+2019-03-21 19:42:59,128 INFO 2038 [egg:core] dump config after ready, 5ms
+2019-03-21 19:43:36,354 INFO 2040 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:43:36,384 INFO 2040 [egg-multipart] stream mode enable
+2019-03-21 19:43:36,434 INFO 2040 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:43:36,437 INFO 2040 [egg-security] use methodnoallow middleware
+2019-03-21 19:43:36,437 INFO 2040 [egg-security] use noopen middleware
+2019-03-21 19:43:36,438 INFO 2040 [egg-security] use nosniff middleware
+2019-03-21 19:43:36,438 INFO 2040 [egg-security] use xssProtection middleware
+2019-03-21 19:43:36,438 INFO 2040 [egg-security] use xframe middleware
+2019-03-21 19:43:36,438 INFO 2040 [egg-security] use dta middleware
+2019-03-21 19:43:36,438 INFO 2040 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:43:36,448 INFO 2040 [egg:core] dump config after load, 5ms
+2019-03-21 19:43:36,464 INFO 2040 [egg-watcher:application] watcher start success
+2019-03-21 19:43:36,469 INFO 2040 [egg:core] dump config after ready, 3ms
+2019-03-21 19:43:37,250 INFO 2041 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:43:37,281 INFO 2041 [egg-multipart] stream mode enable
+2019-03-21 19:43:37,330 INFO 2041 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:43:37,333 INFO 2041 [egg-security] use methodnoallow middleware
+2019-03-21 19:43:37,333 INFO 2041 [egg-security] use noopen middleware
+2019-03-21 19:43:37,334 INFO 2041 [egg-security] use nosniff middleware
+2019-03-21 19:43:37,335 INFO 2041 [egg-security] use xssProtection middleware
+2019-03-21 19:43:37,335 INFO 2041 [egg-security] use xframe middleware
+2019-03-21 19:43:37,335 INFO 2041 [egg-security] use dta middleware
+2019-03-21 19:43:37,335 INFO 2041 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:43:37,346 INFO 2041 [egg:core] dump config after load, 6ms
+2019-03-21 19:43:37,362 INFO 2041 [egg-watcher:application] watcher start success
+2019-03-21 19:43:37,372 INFO 2041 [egg:core] dump config after ready, 8ms
+2019-03-21 19:45:02,748 INFO 2043 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:45:02,778 INFO 2043 [egg-multipart] stream mode enable
+2019-03-21 19:45:02,827 INFO 2043 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:45:02,829 INFO 2043 [egg-security] use methodnoallow middleware
+2019-03-21 19:45:02,830 INFO 2043 [egg-security] use noopen middleware
+2019-03-21 19:45:02,830 INFO 2043 [egg-security] use nosniff middleware
+2019-03-21 19:45:02,831 INFO 2043 [egg-security] use xssProtection middleware
+2019-03-21 19:45:02,831 INFO 2043 [egg-security] use xframe middleware
+2019-03-21 19:45:02,831 INFO 2043 [egg-security] use dta middleware
+2019-03-21 19:45:02,831 INFO 2043 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:45:02,842 INFO 2043 [egg:core] dump config after load, 6ms
+2019-03-21 19:45:02,857 INFO 2043 [egg-watcher:application] watcher start success
+2019-03-21 19:45:02,865 INFO 2043 [egg:core] dump config after ready, 4ms
+2019-03-21 19:45:03,599 INFO 2044 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:45:03,635 INFO 2044 [egg-multipart] stream mode enable
+2019-03-21 19:45:03,682 INFO 2044 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:45:03,687 INFO 2044 [egg-security] use methodnoallow middleware
+2019-03-21 19:45:03,688 INFO 2044 [egg-security] use noopen middleware
+2019-03-21 19:45:03,688 INFO 2044 [egg-security] use nosniff middleware
+2019-03-21 19:45:03,688 INFO 2044 [egg-security] use xssProtection middleware
+2019-03-21 19:45:03,689 INFO 2044 [egg-security] use xframe middleware
+2019-03-21 19:45:03,689 INFO 2044 [egg-security] use dta middleware
+2019-03-21 19:45:03,689 INFO 2044 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:45:03,701 INFO 2044 [egg:core] dump config after load, 7ms
+2019-03-21 19:45:03,718 INFO 2044 [egg-watcher:application] watcher start success
+2019-03-21 19:45:03,728 INFO 2044 [egg:core] dump config after ready, 6ms
+2019-03-21 19:45:47,548 INFO 2046 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:45:47,577 INFO 2046 [egg-multipart] stream mode enable
+2019-03-21 19:45:47,626 INFO 2046 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:45:47,628 INFO 2046 [egg-security] use methodnoallow middleware
+2019-03-21 19:45:47,628 INFO 2046 [egg-security] use noopen middleware
+2019-03-21 19:45:47,629 INFO 2046 [egg-security] use nosniff middleware
+2019-03-21 19:45:47,629 INFO 2046 [egg-security] use xssProtection middleware
+2019-03-21 19:45:47,629 INFO 2046 [egg-security] use xframe middleware
+2019-03-21 19:45:47,630 INFO 2046 [egg-security] use dta middleware
+2019-03-21 19:45:47,630 INFO 2046 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:45:47,640 INFO 2046 [egg:core] dump config after load, 4ms
+2019-03-21 19:45:47,652 INFO 2046 [egg-watcher:application] watcher start success
+2019-03-21 19:45:47,658 INFO 2046 [egg:core] dump config after ready, 4ms
+2019-03-21 19:45:48,373 INFO 2047 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:45:48,402 INFO 2047 [egg-multipart] stream mode enable
+2019-03-21 19:45:48,447 INFO 2047 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:45:48,449 INFO 2047 [egg-security] use methodnoallow middleware
+2019-03-21 19:45:48,449 INFO 2047 [egg-security] use noopen middleware
+2019-03-21 19:45:48,450 INFO 2047 [egg-security] use nosniff middleware
+2019-03-21 19:45:48,450 INFO 2047 [egg-security] use xssProtection middleware
+2019-03-21 19:45:48,451 INFO 2047 [egg-security] use xframe middleware
+2019-03-21 19:45:48,451 INFO 2047 [egg-security] use dta middleware
+2019-03-21 19:45:48,451 INFO 2047 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:45:48,461 INFO 2047 [egg:core] dump config after load, 5ms
+2019-03-21 19:45:48,476 INFO 2047 [egg-watcher:application] watcher start success
+2019-03-21 19:45:48,483 INFO 2047 [egg:core] dump config after ready, 4ms
+2019-03-21 19:45:57,396 INFO 2049 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:45:57,425 INFO 2049 [egg-multipart] stream mode enable
+2019-03-21 19:45:57,469 INFO 2049 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:45:57,471 INFO 2049 [egg-security] use methodnoallow middleware
+2019-03-21 19:45:57,472 INFO 2049 [egg-security] use noopen middleware
+2019-03-21 19:45:57,472 INFO 2049 [egg-security] use nosniff middleware
+2019-03-21 19:45:57,472 INFO 2049 [egg-security] use xssProtection middleware
+2019-03-21 19:45:57,473 INFO 2049 [egg-security] use xframe middleware
+2019-03-21 19:45:57,473 INFO 2049 [egg-security] use dta middleware
+2019-03-21 19:45:57,473 INFO 2049 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:45:57,483 INFO 2049 [egg:core] dump config after load, 5ms
+2019-03-21 19:45:57,498 INFO 2049 [egg-watcher:application] watcher start success
+2019-03-21 19:45:57,510 INFO 2049 [egg:core] dump config after ready, 6ms
+2019-03-21 19:45:58,300 INFO 2050 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:45:58,332 INFO 2050 [egg-multipart] stream mode enable
+2019-03-21 19:45:58,378 INFO 2050 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:45:58,380 INFO 2050 [egg-security] use methodnoallow middleware
+2019-03-21 19:45:58,381 INFO 2050 [egg-security] use noopen middleware
+2019-03-21 19:45:58,381 INFO 2050 [egg-security] use nosniff middleware
+2019-03-21 19:45:58,382 INFO 2050 [egg-security] use xssProtection middleware
+2019-03-21 19:45:58,382 INFO 2050 [egg-security] use xframe middleware
+2019-03-21 19:45:58,382 INFO 2050 [egg-security] use dta middleware
+2019-03-21 19:45:58,382 INFO 2050 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:45:58,394 INFO 2050 [egg:core] dump config after load, 5ms
+2019-03-21 19:45:58,411 INFO 2050 [egg-watcher:application] watcher start success
+2019-03-21 19:45:58,421 INFO 2050 [egg:core] dump config after ready, 6ms
+2019-03-21 19:51:47,739 INFO 2063 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:51:47,770 INFO 2063 [egg-multipart] stream mode enable
+2019-03-21 19:51:47,823 INFO 2063 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:51:47,826 INFO 2063 [egg-security] use methodnoallow middleware
+2019-03-21 19:51:47,826 INFO 2063 [egg-security] use noopen middleware
+2019-03-21 19:51:47,827 INFO 2063 [egg-security] use nosniff middleware
+2019-03-21 19:51:47,827 INFO 2063 [egg-security] use xssProtection middleware
+2019-03-21 19:51:47,827 INFO 2063 [egg-security] use xframe middleware
+2019-03-21 19:51:47,827 INFO 2063 [egg-security] use dta middleware
+2019-03-21 19:51:47,827 INFO 2063 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:51:47,837 INFO 2063 [egg:core] dump config after load, 5ms
+2019-03-21 19:51:47,850 INFO 2063 [egg-watcher:application] watcher start success
+2019-03-21 19:51:47,857 INFO 2063 [egg:core] dump config after ready, 5ms
+2019-03-21 19:51:48,624 INFO 2064 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:51:48,653 INFO 2064 [egg-multipart] stream mode enable
+2019-03-21 19:51:48,698 INFO 2064 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:51:48,700 INFO 2064 [egg-security] use methodnoallow middleware
+2019-03-21 19:51:48,700 INFO 2064 [egg-security] use noopen middleware
+2019-03-21 19:51:48,701 INFO 2064 [egg-security] use nosniff middleware
+2019-03-21 19:51:48,701 INFO 2064 [egg-security] use xssProtection middleware
+2019-03-21 19:51:48,702 INFO 2064 [egg-security] use xframe middleware
+2019-03-21 19:51:48,702 INFO 2064 [egg-security] use dta middleware
+2019-03-21 19:51:48,702 INFO 2064 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:51:48,711 INFO 2064 [egg:core] dump config after load, 5ms
+2019-03-21 19:51:48,726 INFO 2064 [egg-watcher:application] watcher start success
+2019-03-21 19:51:48,733 INFO 2064 [egg:core] dump config after ready, 5ms
+2019-03-21 19:51:59,927 INFO 2066 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:51:59,960 INFO 2066 [egg-multipart] stream mode enable
+2019-03-21 19:52:00,009 INFO 2066 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:52:00,015 INFO 2066 [egg-security] use methodnoallow middleware
+2019-03-21 19:52:00,016 INFO 2066 [egg-security] use noopen middleware
+2019-03-21 19:52:00,016 INFO 2066 [egg-security] use nosniff middleware
+2019-03-21 19:52:00,016 INFO 2066 [egg-security] use xssProtection middleware
+2019-03-21 19:52:00,017 INFO 2066 [egg-security] use xframe middleware
+2019-03-21 19:52:00,017 INFO 2066 [egg-security] use dta middleware
+2019-03-21 19:52:00,017 INFO 2066 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:52:00,030 INFO 2066 [egg:core] dump config after load, 5ms
+2019-03-21 19:52:00,043 INFO 2066 [egg-watcher:application] watcher start success
+2019-03-21 19:52:00,048 INFO 2066 [egg:core] dump config after ready, 3ms
+2019-03-21 19:53:26,804 INFO 2071 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:53:26,842 INFO 2071 [egg-multipart] stream mode enable
+2019-03-21 19:53:26,895 INFO 2071 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:53:26,897 INFO 2071 [egg-security] use methodnoallow middleware
+2019-03-21 19:53:26,898 INFO 2071 [egg-security] use noopen middleware
+2019-03-21 19:53:26,898 INFO 2071 [egg-security] use nosniff middleware
+2019-03-21 19:53:26,899 INFO 2071 [egg-security] use xssProtection middleware
+2019-03-21 19:53:26,900 INFO 2071 [egg-security] use xframe middleware
+2019-03-21 19:53:26,901 INFO 2071 [egg-security] use dta middleware
+2019-03-21 19:53:26,901 INFO 2071 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:53:26,918 INFO 2071 [egg:core] dump config after load, 13ms
+2019-03-21 19:53:26,935 INFO 2071 [egg-watcher:application] watcher start success
+2019-03-21 19:53:26,944 INFO 2071 [egg:core] dump config after ready, 6ms
+2019-03-21 19:53:27,694 INFO 2072 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:53:27,725 INFO 2072 [egg-multipart] stream mode enable
+2019-03-21 19:53:27,772 INFO 2072 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:53:27,774 INFO 2072 [egg-security] use methodnoallow middleware
+2019-03-21 19:53:27,775 INFO 2072 [egg-security] use noopen middleware
+2019-03-21 19:53:27,775 INFO 2072 [egg-security] use nosniff middleware
+2019-03-21 19:53:27,775 INFO 2072 [egg-security] use xssProtection middleware
+2019-03-21 19:53:27,776 INFO 2072 [egg-security] use xframe middleware
+2019-03-21 19:53:27,776 INFO 2072 [egg-security] use dta middleware
+2019-03-21 19:53:27,776 INFO 2072 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:53:27,785 INFO 2072 [egg:core] dump config after load, 5ms
+2019-03-21 19:53:27,803 INFO 2072 [egg-watcher:application] watcher start success
+2019-03-21 19:53:27,810 INFO 2072 [egg:core] dump config after ready, 4ms
+2019-03-21 19:53:56,131 INFO 2075 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:53:56,166 INFO 2075 [egg-multipart] stream mode enable
+2019-03-21 19:53:56,224 INFO 2075 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:53:56,230 INFO 2075 [egg-security] use methodnoallow middleware
+2019-03-21 19:53:56,230 INFO 2075 [egg-security] use noopen middleware
+2019-03-21 19:53:56,231 INFO 2075 [egg-security] use nosniff middleware
+2019-03-21 19:53:56,231 INFO 2075 [egg-security] use xssProtection middleware
+2019-03-21 19:53:56,231 INFO 2075 [egg-security] use xframe middleware
+2019-03-21 19:53:56,232 INFO 2075 [egg-security] use dta middleware
+2019-03-21 19:53:56,232 INFO 2075 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:53:56,246 INFO 2075 [egg:core] dump config after load, 7ms
+2019-03-21 19:53:56,259 INFO 2075 [egg-watcher:application] watcher start success
+2019-03-21 19:53:56,265 INFO 2075 [egg:core] dump config after ready, 4ms
+2019-03-21 19:53:56,996 INFO 2076 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:53:57,035 INFO 2076 [egg-multipart] stream mode enable
+2019-03-21 19:53:57,089 INFO 2076 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:53:57,092 INFO 2076 [egg-security] use methodnoallow middleware
+2019-03-21 19:53:57,092 INFO 2076 [egg-security] use noopen middleware
+2019-03-21 19:53:57,092 INFO 2076 [egg-security] use nosniff middleware
+2019-03-21 19:53:57,093 INFO 2076 [egg-security] use xssProtection middleware
+2019-03-21 19:53:57,093 INFO 2076 [egg-security] use xframe middleware
+2019-03-21 19:53:57,093 INFO 2076 [egg-security] use dta middleware
+2019-03-21 19:53:57,093 INFO 2076 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:53:57,103 INFO 2076 [egg:core] dump config after load, 6ms
+2019-03-21 19:53:57,124 INFO 2076 [egg-watcher:application] watcher start success
+2019-03-21 19:53:57,133 INFO 2076 [egg:core] dump config after ready, 6ms
+2019-03-21 19:57:40,472 INFO 2086 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:57:40,503 INFO 2086 [egg-multipart] stream mode enable
+2019-03-21 19:57:40,549 INFO 2086 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:57:40,551 INFO 2086 [egg-security] use methodnoallow middleware
+2019-03-21 19:57:40,551 INFO 2086 [egg-security] use noopen middleware
+2019-03-21 19:57:40,552 INFO 2086 [egg-security] use nosniff middleware
+2019-03-21 19:57:40,552 INFO 2086 [egg-security] use xssProtection middleware
+2019-03-21 19:57:40,553 INFO 2086 [egg-security] use xframe middleware
+2019-03-21 19:57:40,553 INFO 2086 [egg-security] use dta middleware
+2019-03-21 19:57:40,553 INFO 2086 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:57:40,565 INFO 2086 [egg:core] dump config after load, 8ms
+2019-03-21 19:57:40,577 INFO 2086 [egg-watcher:application] watcher start success
+2019-03-21 19:57:40,582 INFO 2086 [egg:core] dump config after ready, 3ms
+2019-03-21 19:57:42,565 INFO 2087 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:57:42,595 INFO 2087 [egg-multipart] stream mode enable
+2019-03-21 19:57:42,643 INFO 2087 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:57:42,646 INFO 2087 [egg-security] use methodnoallow middleware
+2019-03-21 19:57:42,646 INFO 2087 [egg-security] use noopen middleware
+2019-03-21 19:57:42,647 INFO 2087 [egg-security] use nosniff middleware
+2019-03-21 19:57:42,647 INFO 2087 [egg-security] use xssProtection middleware
+2019-03-21 19:57:42,647 INFO 2087 [egg-security] use xframe middleware
+2019-03-21 19:57:42,648 INFO 2087 [egg-security] use dta middleware
+2019-03-21 19:57:42,648 INFO 2087 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:57:42,656 INFO 2087 [egg:core] dump config after load, 5ms
+2019-03-21 19:57:42,675 INFO 2087 [egg-watcher:application] watcher start success
+2019-03-21 19:57:42,685 INFO 2087 [egg:core] dump config after ready, 7ms
+2019-03-21 19:57:43,504 INFO 2088 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 19:57:43,534 INFO 2088 [egg-multipart] stream mode enable
+2019-03-21 19:57:43,584 INFO 2088 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 19:57:43,591 INFO 2088 [egg-security] use methodnoallow middleware
+2019-03-21 19:57:43,592 INFO 2088 [egg-security] use noopen middleware
+2019-03-21 19:57:43,592 INFO 2088 [egg-security] use nosniff middleware
+2019-03-21 19:57:43,593 INFO 2088 [egg-security] use xssProtection middleware
+2019-03-21 19:57:43,593 INFO 2088 [egg-security] use xframe middleware
+2019-03-21 19:57:43,593 INFO 2088 [egg-security] use dta middleware
+2019-03-21 19:57:43,593 INFO 2088 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 19:57:43,603 INFO 2088 [egg:core] dump config after load, 6ms
+2019-03-21 19:57:43,621 INFO 2088 [egg-watcher:application] watcher start success
+2019-03-21 19:57:43,628 INFO 2088 [egg:core] dump config after ready, 4ms
+2019-03-21 20:05:41,782 INFO 2103 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 20:05:41,820 INFO 2103 [egg-multipart] stream mode enable
+2019-03-21 20:05:41,880 INFO 2103 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 20:05:41,883 INFO 2103 [egg-security] use methodnoallow middleware
+2019-03-21 20:05:41,883 INFO 2103 [egg-security] use noopen middleware
+2019-03-21 20:05:41,884 INFO 2103 [egg-security] use nosniff middleware
+2019-03-21 20:05:41,884 INFO 2103 [egg-security] use xssProtection middleware
+2019-03-21 20:05:41,884 INFO 2103 [egg-security] use xframe middleware
+2019-03-21 20:05:41,885 INFO 2103 [egg-security] use dta middleware
+2019-03-21 20:05:41,885 INFO 2103 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 20:05:41,895 INFO 2103 [egg:core] dump config after load, 6ms
+2019-03-21 20:05:41,911 INFO 2103 [egg-watcher:application] watcher start success
+2019-03-21 20:05:41,916 INFO 2103 [egg:core] dump config after ready, 3ms
+2019-03-21 20:05:42,831 INFO 2103 [egg-view-nunjucks] loading templates from ["/Users/leitingting/work/egg-demo/app/view"]
+2019-03-21 20:05:42,740 INFO 2104 [egg:logger] init all loggers with options: {"dir":"/Users/leitingting/work/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-21 20:05:42,789 INFO 2104 [egg-multipart] stream mode enable
+2019-03-21 20:05:42,935 INFO 2104 [egg-static] starting static serve /public/ -> /Users/leitingting/work/egg-demo/app/public
+2019-03-21 20:05:42,937 INFO 2104 [egg-security] use methodnoallow middleware
+2019-03-21 20:05:42,938 INFO 2104 [egg-security] use noopen middleware
+2019-03-21 20:05:42,939 INFO 2104 [egg-security] use nosniff middleware
+2019-03-21 20:05:42,940 INFO 2104 [egg-security] use xssProtection middleware
+2019-03-21 20:05:42,941 INFO 2104 [egg-security] use xframe middleware
+2019-03-21 20:05:42,942 INFO 2104 [egg-security] use dta middleware
+2019-03-21 20:05:42,942 INFO 2104 [egg-security] compose 6 middlewares into one security middleware
+2019-03-21 20:05:42,957 INFO 2104 [egg:core] dump config after load, 6ms
+2019-03-21 20:05:42,975 INFO 2104 [egg-watcher:application] watcher start success
+2019-03-21 20:05:42,981 INFO 2104 [egg:core] dump config after ready, 3ms
+2019-03-21 20:06:22,883 INFO 2104 [egg-view-nunjucks] loading templates from ["/Users/leitingting/work/egg-demo/app/view"]

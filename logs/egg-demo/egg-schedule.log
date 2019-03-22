@@ -1,0 +1,178 @@
+2019-03-19 11:08:22,056 INFO 1230 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46297949ms at 2019-03-20 00:00:00.005
+2019-03-19 11:08:22,057 INFO 1230 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46298944ms at 2019-03-20 00:00:01.001
+2019-03-19 11:08:21,963 INFO 1231 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 11:08:21,963 INFO 1231 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 11:09:58,127 INFO 1236 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 11:09:58,127 INFO 1236 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 11:09:58,891 INFO 1237 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 11:09:58,891 INFO 1237 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 13:34:04,531 INFO 1441 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 13:34:04,531 INFO 1441 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 13:34:05,335 INFO 1442 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 13:34:05,335 INFO 1442 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 13:35:13,730 INFO 1449 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 37486273ms at 2019-03-20 00:00:00.003
+2019-03-19 13:35:13,731 INFO 1449 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 37487270ms at 2019-03-20 00:00:01.001
+2019-03-19 13:35:13,649 INFO 1450 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 13:35:13,649 INFO 1450 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 14:05:41,990 INFO 1483 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 35658013ms at 2019-03-20 00:00:00.003
+2019-03-19 14:05:41,990 INFO 1483 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 35659010ms at 2019-03-20 00:00:01.000
+2019-03-19 14:05:41,909 INFO 1484 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 14:05:41,909 INFO 1484 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 15:41:40,201 INFO 1625 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 15:41:40,201 INFO 1625 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 15:41:40,297 INFO 1624 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 29899706ms at 2019-03-20 00:00:00.003
+2019-03-19 15:41:40,297 INFO 1624 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 29900703ms at 2019-03-20 00:00:01.000
+2019-03-19 15:45:13,853 INFO 1638 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 15:45:13,853 INFO 1638 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 15:45:14,900 INFO 1639 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 15:45:14,900 INFO 1639 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 15:55:45,371 INFO 1656 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 15:55:45,371 INFO 1656 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 15:55:46,304 INFO 1657 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 15:55:46,304 INFO 1657 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 15:56:09,917 INFO 1662 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 29030086ms at 2019-03-20 00:00:00.003
+2019-03-19 15:56:09,918 INFO 1662 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 29031083ms at 2019-03-20 00:00:01.001
+2019-03-19 15:56:09,825 INFO 1663 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 15:56:09,825 INFO 1663 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 17:30:36,812 INFO 1868 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23363190ms at 2019-03-20 00:00:00.002
+2019-03-19 17:30:36,813 INFO 1868 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23364187ms at 2019-03-20 00:00:01.000
+2019-03-19 17:30:36,693 INFO 1869 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 17:30:36,693 INFO 1869 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 17:36:07,132 INFO 1878 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 17:36:07,132 INFO 1878 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 17:39:08,675 INFO 1880 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 17:39:08,676 INFO 1880 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 17:39:09,580 INFO 1881 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 17:39:09,580 INFO 1881 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 17:39:10,318 INFO 1882 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 17:39:10,318 INFO 1882 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 17:39:10,670 INFO 1883 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 17:39:10,670 INFO 1883 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 17:45:03,062 INFO 1885 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 17:45:03,062 INFO 1885 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:05:48,537 INFO 1928 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:05:48,537 INFO 1928 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:05:49,308 INFO 1929 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:05:49,308 INFO 1929 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:06:05,395 INFO 1935 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 21234607ms at 2019-03-20 00:00:00.002
+2019-03-19 18:06:05,396 INFO 1935 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 21235604ms at 2019-03-20 00:00:01.000
+2019-03-19 18:06:05,310 INFO 1936 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:06:05,310 INFO 1936 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:06:59,522 INFO 1938 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:06:59,522 INFO 1938 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:07:00,485 INFO 1939 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:07:00,485 INFO 1939 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:07:01,389 INFO 1940 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:07:01,389 INFO 1940 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:07:16,102 INFO 1944 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:07:16,102 INFO 1944 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:07:38,733 INFO 1947 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:07:38,733 INFO 1947 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:07:57,478 INFO 1949 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:07:57,478 INFO 1949 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:08:00,508 INFO 1951 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:08:00,509 INFO 1951 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:10:19,148 INFO 1957 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:10:19,148 INFO 1957 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:10:20,064 INFO 1958 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:10:20,064 INFO 1958 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:10:51,113 INFO 1960 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:10:51,113 INFO 1960 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:10:52,001 INFO 1961 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:10:52,001 INFO 1961 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:11:23,628 INFO 1963 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:11:23,628 INFO 1963 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:11:44,035 INFO 1965 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:11:44,035 INFO 1965 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:11:50,135 INFO 1967 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:11:50,135 INFO 1967 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:11:51,075 INFO 1968 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:11:51,075 INFO 1968 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:11:51,865 INFO 1969 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:11:51,865 INFO 1969 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:11:55,197 INFO 1971 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:11:55,197 INFO 1971 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:11:56,073 INFO 1972 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:11:56,073 INFO 1972 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:11:57,415 INFO 1973 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:11:57,415 INFO 1973 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:11:59,737 INFO 1974 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:11:59,737 INFO 1974 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:53:09,144 INFO 2032 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 18410858ms at 2019-03-20 00:00:00.002
+2019-03-19 18:53:09,145 INFO 2032 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 18411855ms at 2019-03-20 00:00:01.000
+2019-03-19 18:53:09,059 INFO 2033 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:53:09,059 INFO 2033 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:54:01,755 INFO 2035 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:54:01,755 INFO 2035 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:54:02,761 INFO 2036 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:54:02,761 INFO 2036 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:54:11,146 INFO 2039 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:54:11,146 INFO 2039 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:54:12,105 INFO 2040 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:54:12,105 INFO 2040 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:54:16,165 INFO 2042 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:54:16,165 INFO 2042 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:54:17,098 INFO 2043 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:54:17,098 INFO 2043 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-19 18:54:28,098 INFO 2048 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 18331905ms at 2019-03-20 00:00:00.003
+2019-03-19 18:54:28,098 INFO 2048 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 18332902ms at 2019-03-20 00:00:01.000
+2019-03-19 18:54:28,012 INFO 2049 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-19 18:54:28,012 INFO 2049 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-20 09:49:29,820 INFO 658 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 51030183ms at 2019-03-21 00:00:00.003
+2019-03-20 09:49:29,820 INFO 658 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 51031180ms at 2019-03-21 00:00:01.000
+2019-03-20 09:49:29,695 INFO 659 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-20 09:49:29,695 INFO 659 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-20 10:29:01,731 INFO 721 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-20 10:29:01,731 INFO 721 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-20 11:57:13,797 INFO 1013 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-20 11:57:13,797 INFO 1013 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-20 11:57:13,887 INFO 1012 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43366116ms at 2019-03-21 00:00:00.003
+2019-03-20 11:57:13,887 INFO 1012 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43367113ms at 2019-03-21 00:00:01.000
+2019-03-21 19:25:09,946 INFO 2004 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:25:09,946 INFO 2004 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:25:10,068 INFO 2003 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 16489934ms at 2019-03-22 00:00:00.002
+2019-03-21 19:25:10,069 INFO 2003 [Timer] /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 16490932ms at 2019-03-22 00:00:01.001
+2019-03-21 19:42:07,484 INFO 2034 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:42:07,484 INFO 2034 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:42:59,040 INFO 2038 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:42:59,040 INFO 2038 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:43:36,384 INFO 2040 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:43:36,384 INFO 2040 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:43:37,280 INFO 2041 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:43:37,280 INFO 2041 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:45:02,778 INFO 2043 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:45:02,778 INFO 2043 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:45:03,634 INFO 2044 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:45:03,634 INFO 2044 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:45:47,576 INFO 2046 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:45:47,576 INFO 2046 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:45:48,401 INFO 2047 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:45:48,401 INFO 2047 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:45:57,425 INFO 2049 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:45:57,425 INFO 2049 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:45:58,331 INFO 2050 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:45:58,331 INFO 2050 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:51:47,769 INFO 2063 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:51:47,769 INFO 2063 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:51:48,652 INFO 2064 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:51:48,653 INFO 2064 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:51:59,959 INFO 2066 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:51:59,959 INFO 2066 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:53:26,840 INFO 2071 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:53:26,840 INFO 2071 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:53:27,724 INFO 2072 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:53:27,724 INFO 2072 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:53:56,165 INFO 2075 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:53:56,165 INFO 2075 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:53:57,033 INFO 2076 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:53:57,033 INFO 2076 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:57:40,503 INFO 2086 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:57:40,503 INFO 2086 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:57:42,594 INFO 2087 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:57:42,594 INFO 2087 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 19:57:43,533 INFO 2088 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 19:57:43,533 INFO 2088 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 20:05:41,820 INFO 2103 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 20:05:41,820 INFO 2103 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-21 20:05:42,788 INFO 2104 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-21 20:05:42,788 INFO 2104 [egg-schedule]: register schedule /Users/leitingting/work/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

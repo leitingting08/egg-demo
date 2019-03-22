@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>{% block title %}egg-demo{% endblock %}</title>
+  <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no">
+  {% block head %}
+  <link rel="stylesheet" href="{{assets.chdc2019}}/static/css/layout.css{{time.chdc2019}}">
+  {% endblock %}
+</head>
+
+<body>
+  {% include './header.nj' %}
+
+  {% block content %}{% endblock %} 
+
+  {% include './footer.nj' %}
+
+  {% block script %}
+  <script type="text/javascript" src="{{assets.chdc2019}}/static/js/manifest.js{{time.chdc2019}}"></script>
+  <script type="text/javascript" src="{{assets.chdc2019}}/static/js/vendor.js{{time.chdc2019}}"></script>
+  <script type="text/javascript" src="{{assets.chdc2019}}/static/js/layout.js{{time.chdc2019}}"></script>
+  {% endblock %}
+</body>
+
+</html>

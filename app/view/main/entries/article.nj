@@ -1,0 +1,29 @@
+{# start 继承基础模板 #}
+{% extends '../layout/base.nj' %}
+{% block title %} egg-demo {% endblock %}
+{% block head %}
+{# css #}
+{{ super() }}
+<link rel="stylesheet"
+  href="{{assets.main}}/static/css/article.css{{time.main}}">
+{% endblock %}
+{# end #}
+{# ============================ #}
+{# 独立内容 #}
+{% block content %}
+<!-- main -->
+
+<div class="container">
+  <div>{{article.title}}</div>
+  <div>{{article.content}}</div>
+</div>
+
+<!-- endmain -->
+{% endblock %}
+{# ============================ #}
+{# javascript #}
+{% block script %}
+{{ super() }}
+<script type="text/javascript" src="{{assets.main}}/static/js/article.js{{time.main}}"></script>
+{% endblock %}
+{# ============================ #}
