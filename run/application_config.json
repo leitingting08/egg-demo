@@ -17,14 +17,15 @@
       "protocolWhiteList": [],
       "defaultMiddleware": "csrf,hsts,methodnoallow,noopen,nosniff,csp,xssProtection,xframe,dta",
       "csrf": {
-        "enable": false,
+        "enable": true,
         "useSession": false,
         "ignoreJSON": false,
         "cookieName": "csrfToken",
         "sessionName": "csrfToken",
         "headerName": "x-csrf-token",
         "bodyName": "_csrf",
-        "queryName": "_csrf"
+        "queryName": "_csrf",
+        "matching": "<Function anonymous>"
       },
       "xframe": {
         "enable": true,
@@ -85,26 +86,26 @@
     "onerror": {
       "errorPageUrl": "/500",
       "appErrorFilter": null,
-      "templatePath": "/Users/leitingting/work/egg-demo/node_modules/egg-onerror/lib/onerror_page.mustache"
+      "templatePath": "/Users/leitingting/github/egg-demo/node_modules/egg-onerror/lib/onerror_page.mustache"
     },
     "i18n": {
       "defaultLocale": "en_US",
       "dirs": [
-        "/Users/leitingting/work/egg-demo/node_modules/egg-session/config/locales",
-        "/Users/leitingting/work/egg-demo/node_modules/egg-security/config/locales",
-        "/Users/leitingting/work/egg-demo/node_modules/egg-jsonp/config/locales",
-        "/Users/leitingting/work/egg-demo/node_modules/egg-onerror/config/locales",
-        "/Users/leitingting/work/egg-demo/node_modules/egg-i18n/config/locales",
-        "/Users/leitingting/work/egg-demo/node_modules/egg-watcher/config/locales",
-        "/Users/leitingting/work/egg-demo/node_modules/egg-schedule/config/locales",
-        "/Users/leitingting/work/egg-demo/node_modules/egg-multipart/config/locales",
-        "/Users/leitingting/work/egg-demo/node_modules/egg-development/config/locales",
-        "/Users/leitingting/work/egg-demo/node_modules/egg-logrotator/config/locales",
-        "/Users/leitingting/work/egg-demo/node_modules/egg-static/config/locales",
-        "/Users/leitingting/work/egg-demo/node_modules/egg-view/config/locales",
-        "/Users/leitingting/work/egg-demo/node_modules/egg-view-nunjucks/config/locales",
-        "/Users/leitingting/work/egg-demo/node_modules/egg/config/locales",
-        "/Users/leitingting/work/egg-demo/config/locales"
+        "/Users/leitingting/github/egg-demo/node_modules/egg-session/config/locales",
+        "/Users/leitingting/github/egg-demo/node_modules/egg-security/config/locales",
+        "/Users/leitingting/github/egg-demo/node_modules/egg-jsonp/config/locales",
+        "/Users/leitingting/github/egg-demo/node_modules/egg-onerror/config/locales",
+        "/Users/leitingting/github/egg-demo/node_modules/egg-i18n/config/locales",
+        "/Users/leitingting/github/egg-demo/node_modules/egg-watcher/config/locales",
+        "/Users/leitingting/github/egg-demo/node_modules/egg-schedule/config/locales",
+        "/Users/leitingting/github/egg-demo/node_modules/egg-multipart/config/locales",
+        "/Users/leitingting/github/egg-demo/node_modules/egg-development/config/locales",
+        "/Users/leitingting/github/egg-demo/node_modules/egg-logrotator/config/locales",
+        "/Users/leitingting/github/egg-demo/node_modules/egg-static/config/locales",
+        "/Users/leitingting/github/egg-demo/node_modules/egg-view/config/locales",
+        "/Users/leitingting/github/egg-demo/node_modules/egg-view-nunjucks/config/locales",
+        "/Users/leitingting/github/egg-demo/node_modules/egg/config/locales",
+        "/Users/leitingting/github/egg-demo/config/locales"
       ],
       "queryField": "locale",
       "cookieField": "locale",
@@ -114,14 +115,14 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "/Users/leitingting/work/egg-demo/node_modules/egg-watcher/lib/event-sources/default",
-        "development": "/Users/leitingting/work/egg-demo/node_modules/egg-watcher/lib/event-sources/development"
+        "default": "/Users/leitingting/github/egg-demo/node_modules/egg-watcher/lib/event-sources/default",
+        "development": "/Users/leitingting/github/egg-demo/node_modules/egg-watcher/lib/event-sources/development"
       }
     },
     "customLogger": {
       "scheduleLogger": {
         "consoleLevel": "NONE",
-        "file": "/Users/leitingting/work/egg-demo/logs/egg-demo/egg-schedule.log"
+        "file": "/Users/leitingting/github/egg-demo/logs/egg-demo/egg-schedule.log"
       }
     },
     "schedule": {
@@ -161,7 +162,7 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "/Users/leitingting/work/egg-demo/app/public",
+      "dir": "/Users/leitingting/github/egg-demo/app/public",
       "dynamic": true,
       "preload": false,
       "buffer": true,
@@ -170,7 +171,7 @@
     },
     "view": {
       "root": [
-        "/Users/leitingting/work/egg-demo/app/view"
+        "/Users/leitingting/github/egg-demo/app/view"
       ],
       "cache": false,
       "defaultExtension": ".nj",
@@ -213,9 +214,9 @@
         "egg-bin": "^4.11.1"
       }
     },
-    "baseDir": "/Users/leitingting/work/egg-demo",
+    "baseDir": "/Users/leitingting/github/egg-demo",
     "HOME": "/Users/leitingting",
-    "rundir": "/Users/leitingting/work/egg-demo/run",
+    "rundir": "/Users/leitingting/github/egg-demo/run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -246,7 +247,7 @@
       "returnRawBody": true
     },
     "logger": {
-      "dir": "/Users/leitingting/work/egg-demo/logs/egg-demo",
+      "dir": "/Users/leitingting/github/egg-demo/logs/egg-demo",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -352,8 +353,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/leitingting/work/egg-demo/node_modules/egg/config/plugin.js",
-      "path": "/Users/leitingting/work/egg-demo/node_modules/egg-session",
+      "from": "/Users/leitingting/github/egg-demo/node_modules/egg/config/plugin.js",
+      "path": "/Users/leitingting/github/egg-demo/node_modules/egg-session",
       "version": "3.1.0"
     },
     "security": {
@@ -365,8 +366,8 @@
         "session"
       ],
       "env": [],
-      "from": "/Users/leitingting/work/egg-demo/node_modules/egg/config/plugin.js",
-      "path": "/Users/leitingting/work/egg-demo/node_modules/egg-security",
+      "from": "/Users/leitingting/github/egg-demo/node_modules/egg/config/plugin.js",
+      "path": "/Users/leitingting/github/egg-demo/node_modules/egg-security",
       "version": "2.5.0"
     },
     "jsonp": {
@@ -378,8 +379,8 @@
         "security"
       ],
       "env": [],
-      "from": "/Users/leitingting/work/egg-demo/node_modules/egg/config/plugin.js",
-      "path": "/Users/leitingting/work/egg-demo/node_modules/egg-jsonp",
+      "from": "/Users/leitingting/github/egg-demo/node_modules/egg/config/plugin.js",
+      "path": "/Users/leitingting/github/egg-demo/node_modules/egg-jsonp",
       "version": "2.0.0"
     },
     "onerror": {
@@ -391,8 +392,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "/Users/leitingting/work/egg-demo/node_modules/egg/config/plugin.js",
-      "path": "/Users/leitingting/work/egg-demo/node_modules/egg-onerror",
+      "from": "/Users/leitingting/github/egg-demo/node_modules/egg/config/plugin.js",
+      "path": "/Users/leitingting/github/egg-demo/node_modules/egg-onerror",
       "version": "2.1.0"
     },
     "i18n": {
@@ -402,8 +403,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/leitingting/work/egg-demo/node_modules/egg/config/plugin.js",
-      "path": "/Users/leitingting/work/egg-demo/node_modules/egg-i18n",
+      "from": "/Users/leitingting/github/egg-demo/node_modules/egg/config/plugin.js",
+      "path": "/Users/leitingting/github/egg-demo/node_modules/egg-i18n",
       "version": "2.0.0"
     },
     "watcher": {
@@ -413,8 +414,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/leitingting/work/egg-demo/node_modules/egg/config/plugin.js",
-      "path": "/Users/leitingting/work/egg-demo/node_modules/egg-watcher",
+      "from": "/Users/leitingting/github/egg-demo/node_modules/egg/config/plugin.js",
+      "path": "/Users/leitingting/github/egg-demo/node_modules/egg-watcher",
       "version": "3.1.0"
     },
     "schedule": {
@@ -424,8 +425,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/leitingting/work/egg-demo/node_modules/egg/config/plugin.js",
-      "path": "/Users/leitingting/work/egg-demo/node_modules/egg-schedule",
+      "from": "/Users/leitingting/github/egg-demo/node_modules/egg/config/plugin.js",
+      "path": "/Users/leitingting/github/egg-demo/node_modules/egg-schedule",
       "version": "3.6.0"
     },
     "multipart": {
@@ -437,8 +438,8 @@
         "schedule"
       ],
       "env": [],
-      "from": "/Users/leitingting/work/egg-demo/node_modules/egg/config/plugin.js",
-      "path": "/Users/leitingting/work/egg-demo/node_modules/egg-multipart",
+      "from": "/Users/leitingting/github/egg-demo/node_modules/egg/config/plugin.js",
+      "path": "/Users/leitingting/github/egg-demo/node_modules/egg-multipart",
       "version": "2.4.0"
     },
     "development": {
@@ -452,8 +453,8 @@
       "env": [
         "local"
       ],
-      "from": "/Users/leitingting/work/egg-demo/node_modules/egg/config/plugin.js",
-      "path": "/Users/leitingting/work/egg-demo/node_modules/egg-development",
+      "from": "/Users/leitingting/github/egg-demo/node_modules/egg/config/plugin.js",
+      "path": "/Users/leitingting/github/egg-demo/node_modules/egg-development",
       "version": "2.4.2"
     },
     "logrotator": {
@@ -465,8 +466,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/leitingting/work/egg-demo/node_modules/egg/config/plugin.js",
-      "path": "/Users/leitingting/work/egg-demo/node_modules/egg-logrotator",
+      "from": "/Users/leitingting/github/egg-demo/node_modules/egg/config/plugin.js",
+      "path": "/Users/leitingting/github/egg-demo/node_modules/egg-logrotator",
       "version": "3.0.7"
     },
     "static": {
@@ -476,8 +477,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/leitingting/work/egg-demo/node_modules/egg/config/plugin.js",
-      "path": "/Users/leitingting/work/egg-demo/node_modules/egg-static",
+      "from": "/Users/leitingting/github/egg-demo/node_modules/egg/config/plugin.js",
+      "path": "/Users/leitingting/github/egg-demo/node_modules/egg-static",
       "version": "2.2.0"
     },
     "view": {
@@ -487,8 +488,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/leitingting/work/egg-demo/node_modules/egg/config/plugin.js",
-      "path": "/Users/leitingting/work/egg-demo/node_modules/egg-view",
+      "from": "/Users/leitingting/github/egg-demo/node_modules/egg/config/plugin.js",
+      "path": "/Users/leitingting/github/egg-demo/node_modules/egg-view",
       "version": "2.1.2"
     },
     "nunjucks": {
@@ -501,8 +502,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/leitingting/work/egg-demo/config/plugin.js",
-      "path": "/Users/leitingting/work/egg-demo/node_modules/egg-view-nunjucks",
+      "from": "/Users/leitingting/github/egg-demo/config/plugin.js",
+      "path": "/Users/leitingting/github/egg-demo/node_modules/egg-view-nunjucks",
       "version": "2.2.0"
     }
   }

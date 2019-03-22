@@ -194,3 +194,20 @@ hostname: leitingtingdeMacBook-Pro.local
 pid: 2088
 hostname: leitingtingdeMacBook-Pro.local
 
+2019-03-22 15:32:11,348 ERROR 1357 [-/::1/-/70ms GET /] nodejs.Template render error: (/Users/leitingting/github/egg-demo/app/view/main/entries/index.nj)
+  Error: unexpected end of comment
+  Error: unexpected end of comment
+    at Object._prettifyError (/Users/leitingting/github/egg-demo/node_modules/nunjucks/src/lib.js:36:11)
+    at Template.render (/Users/leitingting/github/egg-demo/node_modules/nunjucks/src/environment.js:542:21)
+    at /Users/leitingting/github/egg-demo/node_modules/nunjucks/src/environment.js:366:27
+    at createTemplate (/Users/leitingting/github/egg-demo/node_modules/nunjucks/src/environment.js:315:9)
+    at handle (/Users/leitingting/github/egg-demo/node_modules/nunjucks/src/environment.js:327:11)
+    at /Users/leitingting/github/egg-demo/node_modules/nunjucks/src/environment.js:339:9
+    at next (/Users/leitingting/github/egg-demo/node_modules/nunjucks/src/lib.js:280:7)
+    at Object.asyncIter (/Users/leitingting/github/egg-demo/node_modules/nunjucks/src/lib.js:286:3)
+    at NunjucksEnvironment.getTemplate (/Users/leitingting/github/egg-demo/node_modules/nunjucks/src/environment.js:321:9)
+    at NunjucksEnvironment.render (/Users/leitingting/github/egg-demo/node_modules/nunjucks/src/environment.js:360:10)
+name: "Template render error"
+pid: 1357
+hostname: leitingtingdeMacBook-Pro.local
+

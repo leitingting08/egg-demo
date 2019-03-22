@@ -1,4 +1,4 @@
-# start 继承基础模板 #}
+{# start 继承基础模板 #}
 {% extends '../layout/base.nj' %}
 {% block title %} egg-demo {% endblock %}
 {% block head %}
@@ -13,7 +13,7 @@
 {% block content %}
 <!-- main -->
 
-<div class="container">
+<div class="container index-view">
   我是main主要内容 index页面
 </div>
 

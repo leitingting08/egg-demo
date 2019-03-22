@@ -6,6 +6,6 @@ module.exports = (app) => {
 
   // 放在cdn上的静态资源地址--for example
   app.locals.assets = {
-    main: `https://assets.cdn.com/${diffSuffix}/dist`,
+    main: `/${diffSuffix}/public`,
   }
 }

@@ -28,6 +28,16 @@ class HomeController extends Controller {
     };
     await ctx.render('main/entries/article.nj', {article});
   }
+
+  async error404() {
+    const ctx = this.ctx
+    await ctx.render('common/404.nj')
+  }
+
+  async error500() {
+    const ctx = this.ctx
+    await ctx.render('common/500.nj')
+  }
 }
 
 module.exports = HomeController;
